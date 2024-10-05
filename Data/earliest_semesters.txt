@@ -1,0 +1,1224 @@
+APM236H1: (1, 'Winter')
+
+
+
+APM306Y1: (2, 'Fall-Winter')
+
+
+
+APM346H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1);(MAT244H1/MAT267H1)
+
+
+APM348H1: (2, 'Winter')
+MAT244H1;(STA237H1/STA247H1(unaccounted)/STA257H1/MAT377H1)
+
+
+APM421H1: (4, 'Fall')
+(MAT337H1)/MAT357H1
+
+
+APM426H1: (4, 'Winter')
+MAT363H1/MAT367H1
+
+
+APM441H1: (4, 'Fall')
+(APM346H1/MAT351Y1);(MAT334H1/MAT354H1)
+
+
+APM446H1: (3, 'Winter')
+APM346H1
+
+
+APM461H1: (2, 'Winter')
+MAT301H1
+
+
+APM462H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+APM466H1: (3, 'Winter')
+APM346H1;STA347H1
+STA457H1
+
+APM496H1: (1, 'Winter')
+
+
+
+CSC108H1: (1, 'Winter')
+
+
+
+CSC110Y1: (0, 'Fall')
+
+
+
+CSC111H1: (1, 'Winter')
+
+
+
+CSC148H1: (2, 'Fall')
+CSC108H1
+
+
+CSC165H1: (1, 'Winter')
+
+CSC108H1/CSC120H1(unaccounted)
+
+CSC194H1: (2, 'Fall')
+
+
+
+CSC196H1: (1, 'Winter')
+
+
+
+CSC199H1: (2, 'Fall')
+
+
+
+CSC207H1: (2, 'Fall')
+
+
+
+CSC209H1: (2, 'Winter')
+CSC207H1
+
+
+CSC236H1: (2, 'Fall')
+
+
+
+CSC240H1: (1, 'Winter')
+
+MAT137Y1
+
+CSC258H1: (2, 'Fall')
+
+
+
+CSC263H1: (2, 'Winter')
+(STA237H1/STA247H1(unaccounted)/STA257H1/ECE302H1(unaccounted)/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/STA286H1(unaccounted))
+
+
+CSC265H1: (2, 'Fall')
+
+
+
+CSC299H1: (2, 'Fall')
+
+
+
+CSC299Y1: (2, 'Fall-Winter')
+
+
+
+CSC300H1: (1, 'Winter')
+
+
+
+CSC301H1: (3, 'Fall')
+CSC209H1;(CSC263H1/CSC265H1)
+
+
+CSC309H1: (3, 'Fall')
+CSC209H1/ESC180H1(unaccounted)/ESC190H1(unaccounted)/CSC190H1(unaccounted)/(APS105H1(unaccounted);ECE244H1(unaccounted))
+
+
+CSC311H1: (2, 'Winter')
+(CSC207H1/APS105H1(unaccounted)/APS106H1(unaccounted)/ESC180H1(unaccounted)/CSC180H1(unaccounted));(MAT136H1/MAT291H1(unaccounted)/MAT294H1(unaccounted)/MAT187H1(unaccounted)/MAT195H1/ESC195H1(unaccounted));(STA237H1/STA247H1(unaccounted)/STA257H1/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/ECE286H1(unaccounted))
+
+
+CSC316H1: (2, 'Winter')
+CSC207H1
+
+
+CSC317H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1/MAT291H1(unaccounted)/MAT292H1(unaccounted)/MAT294H1(unaccounted))
+
+
+CSC318H1: (1, 'Winter')
+ESC180H1(unaccounted)/ESC190H1(unaccounted)/APS105H1(unaccounted)/APS106H1(unaccounted)
+
+
+CSC320H1: (2, 'Winter')
+(CSC265H1/ECE345H1(unaccounted)/ECE358H1(unaccounted)/MIE335H1(unaccounted))
+
+
+CSC324H1: (3, 'Fall')
+CSC263H1/CSC265H1
+
+
+CSC336H1: (2, 'Winter')
+
+
+
+CSC343H1: (2, 'Winter')
+(CSC207H1/ECE345H1(unaccounted)/ESC190H1(unaccounted))
+
+
+CSC367H1: (3, 'Winter')
+CSC258H1;CSC209H1
+
+
+CSC368H1: (3, 'Winter')
+CSC209H1;CSC258H1
+
+
+CSC369H1: (3, 'Fall')
+CSC209H1;CSC258H1
+
+
+CSC373H1: (2, 'Winter')
+CSC265H1
+
+
+CSC384H1: (2, 'Winter')
+(CSC265H1/ECE345H1(unaccounted)/ECE358H1(unaccounted)/MIE245H1(unaccounted)/CSC148H1);(STA220H1/STA237H1/STA247H1(unaccounted)/STA257H1/ECE302H1(unaccounted)/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/ECE286H1(unaccounted)/PSY201H1(unaccounted))
+
+
+CSC399Y1: (2, 'Fall-Winter')
+
+
+
+CSC401H1: (3, 'Fall')
+(CSC207H1/CSC209H1/APS105H1(unaccounted)/APS106H1(unaccounted)/ESC180H1(unaccounted)/CSC180H1(unaccounted));(STA237H1/STA247H1(unaccounted)/STA255H1/STA257H1/ECE302H1(unaccounted)/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/ECE286H1(unaccounted))
+
+
+CSC404H1: (2, 'Fall')
+CSC318H1/CSC417H1(unaccounted)/CSC418H1(unaccounted)
+
+
+CSC410H1: (3, 'Fall')
+CSC207H1
+
+
+CSC412H1: (3, 'Winter')
+CSC311H1/CSC411H1(unaccounted)/STA314H1/ECE421H1(unaccounted)/ROB313H1(unaccounted)
+
+
+CSC413H1: (3, 'Fall')
+(CSC311H1/CSC411H1(unaccounted)/ECE421H1(unaccounted)/ROB313H1(unaccounted));(MAT235Y1/MAT237Y1/MAT257Y1/MAT291H1(unaccounted)/MAT294H1(unaccounted)/AER210H1(unaccounted))
+
+
+CSC419H1: (3, 'Winter')
+(MAT235Y1/MAT237Y1/MAT257Y1/MAT291H1(unaccounted)/MAT294H1(unaccounted))
+
+
+CSC420H1: (3, 'Fall')
+(CSC265H1/ECE345H1(unaccounted)/ECE358H1(unaccounted)/MIE335H1(unaccounted));CSC311H1;CSC311H1
+
+
+CSC428H1: (2, 'Winter')
+CSC318H1;(STA237H1/STA247H1(unaccounted)/STA257H1/ECE302H1(unaccounted)/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/ECE286H1(unaccounted));(CSC207H1/APS105H1(unaccounted)/ESC180H1(unaccounted)/CSC180H1(unaccounted))
+
+
+CSC443H1: (4, 'Fall')
+CSC343H1;CSC369H1;(CSC373H1/CSC375H1(unaccounted))
+
+
+CSC446H1: (3, 'Winter')
+(CSC351H1(unaccounted)/CSC336H1);(MAT237Y1/MAT257Y1);(APM346H1/(MAT244H1/MAT267H1))
+
+
+CSC448H1: (2, 'Winter')
+CSC265H1
+
+
+CSC454H1: (1, 'Winter')
+
+
+
+CSC457H1: (3, 'Winter')
+CSC373H1;(STA247H1(unaccounted)/STA255H1/STA257H1/STA237H1)
+
+
+CSC458H1: (3, 'Fall')
+CSC209H1;CSC258H1;(CSC263H1/CSC265H1);(STA247H1(unaccounted)/STA255H1/STA257H1/STA237H1/ECO227Y1(unaccounted))
+
+
+CSC463H1: (2, 'Fall')
+
+
+
+CSC465H1: (2, 'Fall')
+
+
+
+CSC485H1: (3, 'Fall')
+(CSC209H1/APS105H1(unaccounted)/APS106H1(unaccounted)/ESC180H1(unaccounted)/CSC180H1(unaccounted));(STA237H1/STA247H1(unaccounted)/STA255H1/STA257H1/ECE302H1(unaccounted)/STA286H1(unaccounted)/CHE223H1(unaccounted)/CME263H1(unaccounted)/MIE231H1(unaccounted)/MIE236H1(unaccounted)/MSE238H1(unaccounted)/ECE286H1(unaccounted))
+
+
+CSC486H1: (3, 'Fall')
+CSC384H1/ROB311H1(unaccounted)
+
+
+CSC488H1: (3, 'Winter')
+CSC258H1;CSC324H1;(CSC263H1/CSC265H1)
+
+
+CSC490H1: (1, 'Winter')
+
+
+
+CSC491H1: (1, 'Winter')
+
+CSC454H1
+
+CSC494H1: (1, 'Winter')
+
+
+
+CSC494Y1: (2, 'Fall-Winter')
+
+
+
+CSC495H1: (2, 'Fall')
+CSC494H1
+
+
+ENV237H1: (2, 'Winter')
+(CHM136H1(unaccounted)/CHM138H1(unaccounted)/CHM135H1(unaccounted)/CHM139H1(unaccounted)/CHM151Y1(unaccounted))
+
+
+ENV238H1: (2, 'Winter')
+(CHM136H1(unaccounted)/CHM138H1(unaccounted)/CHM135H1(unaccounted)/CHM139H1(unaccounted)/CHM151Y1(unaccounted))
+
+
+JPE395H1: (3, 'Winter')
+(MAT235Y1/MAT237Y1/MAT291H1(unaccounted)/AER210H1(unaccounted));(PHY254H1/PHY293H1(unaccounted)/MAT244H1/MAT267H1/MAT290H1(unaccounted)/MAT292H1(unaccounted))
+
+
+JPE493H1: (4, 'Fall')
+JPE395H1/JGA305H1(unaccounted)
+APM346H1
+
+JPH441H1: (3, 'Fall')
+PHY224H1/PHY250H1/PHY252H1/PHY254H1/PHY256H1
+
+
+JSC270H1: (2, 'Winter')
+STA257H1;CSC207H1
+STA261H1;(MAT237Y1/MAT257Y1)
+
+JSC370H1: (3, 'Winter')
+JSC270H1;STA261H1;(MAT237Y1/MAT257Y1);(CSC263H1/CSC265H1);STA302H1;CSC343H1
+STA303H1/STA305H1
+
+MAT133Y1: (2, 'Fall-Winter')
+
+
+
+MAT135H1: (1, 'Winter')
+
+
+
+MAT136H1: (2, 'Fall')
+MAT135H1/APS162H1(unaccounted)/ESC194H1(unaccounted)/MAT186H1(unaccounted)/MAT196H1(unaccounted)
+
+
+MAT137Y1: (2, 'Fall-Winter')
+
+
+
+MAT138H1: (2, 'Fall')
+
+
+
+MAT157Y1: (1, 'Fall-Winter')
+
+
+
+MAT195H1: (1, 'Winter')
+
+
+
+MAT198H1: (2, 'Fall')
+
+
+
+MAT199H1: (1, 'Winter')
+
+
+
+MAT223H1: (0, 'Fall')
+
+
+
+MAT224H1: (1, 'Winter')
+
+
+
+MAT235Y1: (2, 'Fall-Winter')
+
+
+
+MAT237Y1: (2, 'Fall-Winter')
+
+
+
+MAT240H1: (0, 'Fall')
+
+
+
+MAT244H1: (2, 'Fall')
+
+
+
+MAT246H1: (2, 'Winter')
+((MAT135H1;MAT136H1))
+
+
+MAT247H1: (1, 'Winter')
+
+
+
+MAT257Y1: (2, 'Fall-Winter')
+
+
+
+MAT267H1: (2, 'Winter')
+
+MAT257Y1
+
+MAT271H1: (2, 'Fall')
+
+
+
+MAT296H1: (1, 'Winter')
+
+
+
+MAT301H1: (2, 'Fall')
+()/(MAT185H1(unaccounted);MAT194H1(unaccounted);MAT195H1)
+
+
+MAT309H1: (3, 'Fall')
+MAT257Y1/((MAT235Y1/MAT237Y1))
+
+
+MAT315H1: (2, 'Fall')
+
+
+
+MAT327H1: (2, 'Fall')
+
+
+
+MAT329Y1: (2, 'Fall-Winter')
+
+
+
+MAT332H1: (2, 'Fall')
+
+
+
+MAT334H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+MAT335H1: (2, 'Winter')
+
+
+
+MAT336H1: (2, 'Winter')
+((MAT185H1(unaccounted);(MAT195H1/ESC195H1(unaccounted))))
+
+
+MAT337H1: (3, 'Fall')
+MAT257Y1/((MAT235Y1/MAT237Y1))
+
+
+MAT344H1: (1, 'Winter')
+
+
+
+MAT347Y1: (2, 'Fall-Winter')
+
+
+
+MAT351Y1: (3, 'Fall-Winter')
+(MAT257Y1/MAT237Y1);MAT267H1
+
+
+MAT354H1: (3, 'Fall')
+MAT257Y1
+
+
+MAT357H1: (3, 'Winter')
+MAT257Y1
+
+
+MAT363H1: (3, 'Winter')
+(MAT237Y1/MAT257Y1)
+
+
+MAT367H1: (3, 'Winter')
+MAT257Y1/(MAT237Y1)
+
+
+MAT370H1: (3, 'Fall')
+MAT224H1;(MAT235Y1/MAT237Y1/MAT257Y1);MAT246H1
+
+
+MAT377H1: (3, 'Fall')
+MAT257Y1
+
+
+MAT390H1: (2, 'Fall')
+
+
+
+MAT391H1: (1, 'Winter')
+
+
+
+MAT395H1: (1, 'Winter')
+
+
+
+MAT396H1: (1, 'Winter')
+
+
+
+MAT397Y1: (2, 'Fall-Winter')
+
+
+
+MAT401H1: (2, 'Winter')
+MAT301H1
+
+
+MAT402H1: (3, 'Fall')
+(MAT301H1/MAT347Y1);(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+MAT403H1: (3, 'Winter')
+(MAT235Y1/MAT237Y1/MAT257Y1);(MAT301H1/MAT347Y1)
+
+
+MAT409H1: (4, 'Fall')
+MAT357H1
+
+
+MAT415H1: (3, 'Winter')
+MAT347Y1
+
+
+MAT425H1: (3, 'Winter')
+MAT257Y1;MAT327H1
+
+
+MAT436H1: (3, 'Fall')
+(MAT237Y1/MAT257Y1)
+
+
+MAT437H1: (3, 'Winter')
+(MAT237Y1/MAT257Y1)
+
+
+MAT445H1: (3, 'Winter')
+MAT347Y1
+
+
+MAT449H1: (3, 'Winter')
+MAT347Y1;MAT354H1
+
+
+MAT454H1: (3, 'Winter')
+MAT354H1
+
+
+MAT457H1: (4, 'Fall')
+MAT357H1
+
+
+MAT458H1: (4, 'Winter')
+MAT457H1
+
+
+MAT461H1: (3, 'Winter')
+(MAT244H1/MAT267H1);MAT337H1;APM346H1
+
+
+MAT464H1: (4, 'Fall')
+MAT367H1
+
+
+MAT475H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+MAT477H1: (4, 'Fall')
+MAT347Y1;MAT354H1;MAT357H1
+
+
+MAT482H1: (2, 'Fall')
+
+
+
+MAT495H1: (1, 'Winter')
+
+
+
+MAT496H1: (1, 'Winter')
+
+
+
+MAT497Y1: (2, 'Fall-Winter')
+
+
+
+PHY100H1: (2, 'Fall')
+
+
+
+PHY131H1: (1, 'Winter')
+
+
+
+PHY132H1: (1, 'Winter')
+
+
+
+PHY151H1: (0, 'Fall')
+
+
+
+PHY152H1: (0, 'Fall')
+
+
+
+PHY196H1: (1, 'Winter')
+
+
+
+PHY197H1: (2, 'Fall')
+
+
+
+PHY198H1: (1, 'Winter')
+
+
+
+PHY199H1: (1, 'Winter')
+
+
+
+PHY205H1: (1, 'Winter')
+
+
+
+PHY207H1: (1, 'Winter')
+
+
+
+PHY224H1: (2, 'Fall')
+
+PHY231H1/PHY254H1/PHY256H1
+
+PHY231H1: (2, 'Fall')
+
+
+
+PHY250H1: (2, 'Winter')
+
+MAT235Y1/MAT237Y1/MAT257Y1
+
+PHY252H1: (2, 'Winter')
+
+MAT235Y1/MAT237Y1/MAT257Y1
+
+PHY254H1: (2, 'Fall')
+
+
+
+PHY256H1: (2, 'Fall')
+
+
+
+PHY299Y1: (2, 'Fall-Winter')
+
+
+
+PHY324H1: (2, 'Winter')
+PHY224H1;(PHY231H1/PHY254H1/PHY256H1)
+
+
+PHY331H1: (3, 'Fall')
+(PHY252H1/CHM222H1(unaccounted));(PHY231H1/PHY250H1/PHY254H1/PHY256H1)
+
+
+PHY350H1: (3, 'Fall')
+(MAT244H1/MAT267H1);(MAT235Y1/MAT237Y1/MAT257Y1);PHY250H1
+
+
+PHY354H1: (3, 'Winter')
+(MAT244H1/MAT267H1);(MAT235Y1/MAT237Y1/MAT257Y1);PHY254H1
+
+
+PHY356H1: (3, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1);PHY250H1;(PHY256H1/(CHM222H1(unaccounted);CHM223H1(unaccounted)));PHY256H1
+MAT244H1
+
+PHY357H1: (3, 'Winter')
+PHY356H1
+
+
+PHY358H1: (3, 'Winter')
+PHY356H1
+
+
+PHY365H1: (2, 'Winter')
+(PHY256H1/PHY294H1(unaccounted)/CHM223H1(unaccounted)/ECE330H1(unaccounted))
+
+
+PHY371Y1: (2, 'Fall-Winter')
+
+
+
+PHY372H1: (1, 'Winter')
+
+
+
+PHY378H1: (1, 'Winter')
+
+
+
+PHY379Y1: (2, 'Fall-Winter')
+
+
+
+PHY385H1: (3, 'Winter')
+PHY250H1;PHY224H1;(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+PHY392H1: (3, 'Fall')
+(PHY250H1/PHY252H1);(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+PHY405H1: (2, 'Winter')
+PHY224H1
+
+
+PHY407H1: (3, 'Fall')
+PHY224H1;(PHY250H1/PHY252H1/PHY254H1/PHY256H1);(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+PHY408H1: (3, 'Winter')
+PHY224H1;(PHY250H1/PHY252H1/PHY254H1/PHY256H1);(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+PHY424H1: (3, 'Fall')
+PHY250H1;PHY256H1;PHY324H1
+
+
+PHY426H1: (3, 'Winter')
+PHY424H1
+
+
+PHY428H1: (4, 'Fall')
+PHY426H1
+
+
+PHY429H1: (4, 'Winter')
+PHY428H1
+
+
+PHY431H1: (3, 'Winter')
+PHY250H1;(PHY252H1/CHM222H1(unaccounted));PHY331H1
+
+
+PHY450H1: (4, 'Winter')
+PHY350H1;PHY354H1
+
+
+PHY452H1: (3, 'Winter')
+PHY252H1;PHY356H1
+
+
+PHY454H1: (3, 'Winter')
+PHY254H1;(MAT235Y1/MAT237Y1/MAT257Y1);(APM346H1/APM351Y1(unaccounted))
+
+
+PHY456H1: (4, 'Fall')
+PHY356H1
+
+
+PHY460H1: (4, 'Fall')
+PHY354H1
+
+
+PHY471Y1: (2, 'Fall-Winter')
+
+
+
+PHY472H1: (1, 'Winter')
+
+
+
+PHY478H1: (1, 'Winter')
+
+
+
+PHY479Y1: (2, 'Fall-Winter')
+
+
+
+PHY483H1: (4, 'Fall')
+PHY354H1
+
+
+PHY484H1: (4, 'Winter')
+PHY483H1
+
+
+PHY485H1: (4, 'Winter')
+PHY350H1;PHY356H1;(PHY385H1/ECE318H1(unaccounted))
+
+
+PHY487H1: (4, 'Fall')
+PHY250H1;PHY252H1;PHY356H1
+
+
+PHY489H1: (4, 'Fall')
+PHY356H1
+
+
+PHY491H1: (4, 'Winter')
+PHY456H1
+
+
+PHY492H1: (3, 'Fall')
+PHY224H1;(PHY250H1/PHY252H1/PHY254H1);(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA130H1: (1, 'Winter')
+
+
+
+STA197H1: (2, 'Fall')
+
+
+
+STA198H1: (1, 'Winter')
+
+
+
+STA199H1: (1, 'Winter')
+
+
+
+STA201H1: (2, 'Fall')
+
+
+
+STA220H1: (1, 'Winter')
+
+
+
+STA221H1: (2, 'Winter')
+STA220H1/STA288H1/PSY201H1(unaccounted)/GGR270H1(unaccounted)/EEB225H1(unaccounted)
+
+
+STA237H1: (2, 'Fall')
+
+
+
+STA238H1: (2, 'Winter')
+STA237H1/STA247H1(unaccounted)/STA257H1
+
+
+STA255H1: (2, 'Winter')
+(STA220H1/STA288H1)
+
+
+STA257H1: (2, 'Fall')
+
+
+
+STA261H1: (2, 'Winter')
+STA257H1
+(MAT237Y1/MAT257Y1)
+
+STA288H1: (1, 'Winter')
+BIO230H1(unaccounted)/BIO255H1(unaccounted)
+
+
+STA299Y1: (2, 'Fall-Winter')
+
+
+
+STA302H1: (3, 'Fall')
+(STA238H1/STA248H1(unaccounted)/STA255H1/STA261H1/ECO227Y1(unaccounted))
+
+
+STA303H1: (3, 'Winter')
+STA302H1
+
+
+STA304H1: (3, 'Fall')
+ECO227Y1(unaccounted)/STA255H1/STA261H1/STA248H1(unaccounted)/STA238H1
+
+
+STA305H1: (3, 'Winter')
+STA302H1
+
+
+STA313H1: (3, 'Fall')
+(STA238H1/STA248H1(unaccounted)/STA261H1/ECO227Y1(unaccounted))
+
+
+STA314H1: (4, 'Fall')
+STA302H1;(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA347H1: (3, 'Fall')
+(STA247H1(unaccounted)/STA255H1/STA237H1/STA257H1/ECO227Y1(unaccounted));(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA355H1: (3, 'Fall')
+(STA255H1/STA248H1(unaccounted)/STA238H1/STA261H1/ECO227Y1(unaccounted));(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA365H1: (3, 'Winter')
+STA302H1
+
+
+STA399Y1: (2, 'Fall-Winter')
+
+
+
+STA410H1: (3, 'Winter')
+STA302H1
+
+
+STA414H1: (3, 'Winter')
+(STA314H1/CSC411H1(unaccounted)/CSC311H1);STA302H1;(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA437H1: (3, 'Winter')
+STA302H1
+
+
+STA442H1: (4, 'Fall')
+STA303H1
+
+
+STA447H1: (3, 'Winter')
+STA347H1/MAT377H1
+
+
+STA450H1: (1, 'Winter')
+
+
+
+STA452H1: (4, 'Fall')
+(MAT235Y1/MAT237Y1/MAT257Y1);((STA257H1;STA355H1)/STA347H1)
+
+
+STA453H1: (4, 'Winter')
+STA452H1
+
+
+STA457H1: (3, 'Winter')
+STA302H1;(MAT235Y1/MAT237Y1/MAT257Y1)
+
+
+STA465H1: (4, 'Fall')
+STA302H1;STA303H1
+
+
+STA475H1: (4, 'Fall')
+
+STA303H1
+
+STA480H1: (4, 'Fall')
+STA303H1
+
+
+STA490Y1: (4, 'Fall-Winter')
+STA303H1;(STA304H1/STA305H1)
+STA355H1
+
+STA492H1: (3, 'Winter')
+STA355H1
+
+
+STA496H1: (1, 'Winter')
+
+
+
+STA497H1: (1, 'Winter')
+
+
+
+ACT199H1: (2, 'Fall')
+
+
+
+ACT230H1: (2, 'Fall')
+
+
+
+ACT240H1: (2, 'Fall')
+
+
+
+ACT245H1: (2, 'Winter')
+ACT240H1
+
+
+ACT247H1: (2, 'Winter')
+ACT240H1;STA257H1
+
+
+ACT348H1: (3, 'Fall')
+ACT240H1;ACT245H1;ACT247H1
+(STA257H1/STA237H1)
+
+ACT349H1: (3, 'Fall')
+ACT240H1;ACT245H1;ACT247H1
+(STA257H1/STA237H1)
+
+ACT350H1: (3, 'Fall')
+ACT240H1;ACT245H1;ACT247H1;(STA257H1/STA237H1)
+
+
+ACT370H1: (3, 'Winter')
+ACT240H1;ACT245H1;ACT247H1
+(STA261H1/STA238H1);(MAT237Y1/MAT257Y1)
+
+ACT371H1: (3, 'Fall')
+ACT240H1;(STA257H1/STA237H1)
+
+
+ACT372H1: (3, 'Winter')
+ACT371H1
+
+
+ACT390H1: (2, 'Fall')
+
+
+
+ACT391H1: (2, 'Winter')
+ACT390H1
+
+
+ACT451H1: (3, 'Fall')
+(STA257H1/STA237H1);ACT240H1;ACT245H1;ACT247H1
+
+
+ACT452H1: (3, 'Winter')
+ACT240H1;ACT245H1;ACT247H1;(STA261H1/STA238H1);ACT451H1
+
+
+ACT455H1: (3, 'Winter')
+ACT240H1;ACT245H1;ACT247H1;ACT348H1;(ACT350H1/STA347H1)
+
+
+ACT460H1: (4, 'Fall')
+ACT240H1;ACT245H1;ACT247H1;(ACT350H1/STA347H1)
+
+
+ACT466H1: (3, 'Winter')
+ACT240H1;ACT245H1;ACT247H1;(STA261H1/STA238H1);ACT451H1
+
+
+ACT470H1: (3, 'Winter')
+
+ACT455H1
+
+ACT473H1: (3, 'Winter')
+ACT348H1;ACT349H1
+
+
+ACT475H1: (3, 'Winter')
+ACT240H1;ACT245H1;ACT247H1
+ACT348H1
+
+ACT496H1: (2, 'Fall')
+
+
+
+ACT497H1: (1, 'Winter')
+
+
+
+ACT498Y1: (2, 'Fall-Winter')
+
+
+
+ACT499Y1: (2, 'Fall-Winter')
+
+
+
+AST101H1: (2, 'Fall')
+
+
+
+AST121H1: (1, 'Winter')
+
+
+
+AST198H1: (1, 'Winter')
+
+
+
+AST199H1: (1, 'Winter')
+
+
+
+AST201H1: (1, 'Winter')
+
+
+
+AST221H1: (2, 'Fall')
+
+
+
+AST222H1: (2, 'Winter')
+AST221H1
+
+
+AST251H1: (1, 'Winter')
+
+
+
+AST299H1: (1, 'Winter')
+
+
+
+AST301H1: (2, 'Fall')
+AST201H1/AST251H1
+
+
+AST320H1: (3, 'Winter')
+(PHY252H1/PHY294H1(unaccounted));AST221H1;AST222H1
+
+
+AST325H1: (3, 'Fall')
+AST221H1;AST222H1
+
+
+AST326Y1: (3, 'Fall-Winter')
+AST221H1;AST222H1
+
+
+AST424H1: (4, 'Fall-Winter')
+AST320H1
+
+
+AST425Y1: (5, 'Fall-Winter')
+(AST320H1/AST326Y1);PHY324H1;PHY350H1;PHY354H1;PHY356H1;PHY357H1;PHY358H1;(PHY407H1/PHY408H1);PHY450H1;JPE395H1
+
+
+AST430H1: (1, 'Winter')
+
+
+
+AST431Y1: (2, 'Fall-Winter')
+
+
+
+COG260H1: (2, 'Fall')
+CSC108H1
+COG250Y1(unaccounted)
+
+CTA395Y1: (2, 'Fall-Winter')
+CTA200H1(unaccounted)
+
+
+PLN420H1: (2, 'Fall-Winter')
+
+
+
+PLN425H1: (2, 'Fall-Winter')
+
+
+
+SMC199H1: (2, 'Fall')
+
+
+
+ECO220Y1: (2, 'Fall-Winter')
+((ECO101H1(unaccounted);ECO102H1(unaccounted))/ECO105Y1(unaccounted))
+
+
+ECO225H1: (2, 'Winter')
+((ECO101H1(unaccounted);ECO102H1(unaccounted))/ECO105Y1(unaccounted))
+
+
+ECO482H1: (3, 'Fall')
+(ECO200Y1(unaccounted)/ECO204Y1(unaccounted)/ECO206Y1(unaccounted));(ECO202Y1(unaccounted)/ECO208Y1(unaccounted)/ECO209Y1(unaccounted));(ECO220Y1/ECO227Y1(unaccounted)/(STA237H1;STA238H1)/(STA247H1(unaccounted);STA248H1(unaccounted))/(STA257H1;STA261H1))
+
+
+EEB125H1: (1, 'Winter')
+
+
+
+EEB313H1: (2, 'Fall')
+BIO220H1(unaccounted);(EEB225H1(unaccounted)/STA288H1/STA220H1)
+
+
+ENG286H1: (2, 'Fall')
+
+
+
+ENG287H1: (1, 'Winter')
+
+
+
+ENV338H1: (2, 'Fall')
+ENV222H1(unaccounted)
+
+
+ESS245H1: (2, 'Winter')
+MAT198H1;MAT199H1;PHY196H1;PHY197H1;PHY198H1;PHY199H1
+
+
+GGR272H1: (1, 'Winter')
+
+
+
+GGR274H1: (1, 'Winter')
+
+
+
+GGR375H1: (2, 'Fall')
+GGR274H1
+
+
+GGR376H1: (2, 'Fall')
+GGR274H1
+
+
+GGR377H1: (2, 'Fall')
+
+
+
+GGR472H1: (1, 'Winter')
+
+
+
+NMC268H1: (2, 'Fall')
+
+
+
+PCJ260H1: (1, 'Winter')
+
+
+
+PSY305H1: (3, 'Winter')
+PSY202H1(unaccounted)/ECO220Y1/SOC252H1(unaccounted)/STA221H1
+
+
+RSM371H1: (2, 'Fall')
+CSC108H1
+
+
+RSM384H1: (3, 'Fall')
+ECO220Y1/ECO227Y1(unaccounted)/(STA220H1;STA255H1)/(STA237H1;STA238H1)/(STA257H1;STA261H1)
+
+

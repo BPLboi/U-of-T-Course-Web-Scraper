@@ -1,0 +1,19 @@
+{
+    "courseCodeAndTitleProps": {"courseCode":"","courseTitle":"","courseSectionCode":""},
+    "departmentProps":[],
+    "campuses":["St. George"],
+    "sessions":["20249","20251","20249-20251"],
+    "requirementProps":[],
+    "instructor":"",
+    "courseLevels":[],
+    "deliveryModes":[],
+    "dayPreferences":[],
+    "timePreferences":[],
+    "divisions":[],
+    "creditWeights":[],
+    "availableSpace":false,
+    "waitListable":false,
+    "page":1,
+    "pageSize":20,
+    "direction":"asc"
+}

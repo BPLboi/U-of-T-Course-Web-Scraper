@@ -1,0 +1,9234 @@
+{
+  "APM236H1": {
+    "notes": "",
+    "name": "APM236H1",
+    "title": "Applications of Linear Programming",
+    "prereq_string": "MAT221H1/ MAT223H1/ MAT223H5/ MATA22H3/ MATA23H3/ MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "any",
+      "MAT221H1",
+      "MAT223H1",
+      "MAT240H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        235,
+        240,
+        0
+      ],
+      "Winter": [
+        321,
+        340,
+        33
+      ]
+    }
+  },
+  "APM306Y1": {
+    "notes": "",
+    "name": "APM306Y1",
+    "title": "Mathematics and Law",
+    "prereq_string": "MAT133Y1/ MAT135H1/ MAT135H5/ MAT136H1/ MAT136H5/ MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5), MAT221H1/ MAT223H1/ MAT240H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT133Y1",
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "MAT221H1",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        83,
+        100,
+        0
+      ]
+    }
+  },
+  "APM346H1": {
+    "notes": "",
+    "name": "APM346H1",
+    "title": "Partial Differential Equations",
+    "prereq_string": "MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3)/ MAT237Y1/ MAT237Y5/ MAT257Y1, (MAT244H1/ MATB44H3/ MAT244H5/ MAT267H1)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT244H1",
+        "MAT267H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT351Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        165,
+        175,
+        0
+      ],
+      "Winter": [
+        555,
+        600,
+        30
+      ]
+    }
+  },
+  "APM348H1": {
+    "notes": "",
+    "name": "APM348H1",
+    "title": "Mathematical Modelling",
+    "prereq_string": "MAT244H1/MAT267H1, MAT224H1/MAT247H1, STA237H1/STA247H1/STA257H1/MAT377H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT244H1",
+        "MAT267H1"
+      ],
+      [
+        "any",
+        "MAT224H1",
+        "MAT247H1"
+      ],
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA257H1",
+        "MAT377H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT482H1"
+    ],
+    "sessions": {
+      "Winter": [
+        35,
+        35,
+        17
+      ]
+    }
+  },
+  "APM421H1": {
+    "notes": "",
+    "name": "APM421H1",
+    "title": "Mathematical Foundations of Quantum Mechanics and Quantum Information Theory",
+    "prereq_string": "(MAT224H1/MAT247H1, MAT337H1)/ MAT357H1",
+    "prereq_list": [
+      "any",
+      [
+        "all",
+        [
+          "any",
+          "MAT224H1",
+          "MAT247H1"
+        ],
+        "MAT337H1"
+      ],
+      "MAT357H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        42,
+        49,
+        0
+      ]
+    }
+  },
+  "APM426H1": {
+    "notes": "",
+    "name": "APM426H1",
+    "title": "General Relativity",
+    "prereq_string": "MAT363H1/MAT367H1",
+    "prereq_list": [
+      "any",
+      "MAT363H1",
+      "MAT367H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        24,
+        30,
+        0
+      ]
+    }
+  },
+  "APM441H1": {
+    "notes": "",
+    "name": "APM441H1",
+    "title": "Asymptotic and Perturbation Methods",
+    "prereq_string": "APM346H1/MAT351Y1, MAT334H1/MAT354H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "APM346H1",
+        "MAT351Y1"
+      ],
+      [
+        "any",
+        "MAT334H1",
+        "MAT354H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        8,
+        15,
+        0
+      ]
+    }
+  },
+  "APM446H1": {
+    "notes": "",
+    "name": "APM446H1",
+    "title": "Applied Nonlinear Equations",
+    "prereq_string": "APM346H1/MAT351Y1",
+    "prereq_list": [
+      "any",
+      "APM346H1",
+      "MAT351Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        30,
+        3
+      ]
+    }
+  },
+  "APM461H1": {
+    "notes": "",
+    "name": "APM461H1",
+    "title": "Combinatorial Methods",
+    "prereq_string": "MAT224H1/ MAT247H1, MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5), MAT301H1/ MAT347Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT224H1",
+        "MAT247H1"
+      ],
+      [
+        "any",
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "MAT301H1",
+        "MAT347Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        30,
+        6
+      ]
+    }
+  },
+  "APM462H1": {
+    "notes": "",
+    "name": "APM462H1",
+    "title": "Nonlinear Optimization",
+    "prereq_string": "(MAT223H1,MAT224H1) /MAT247H1, MAT235Y1/MAT237Y1/MAT257Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        [
+          "all",
+          "MAT223H1",
+          "MAT224H1"
+        ],
+        "MAT247H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        102,
+        104,
+        0
+      ],
+      "Winter": [
+        188,
+        188,
+        56
+      ]
+    }
+  },
+  "APM466H1": {
+    "notes": "",
+    "name": "APM466H1",
+    "title": "Mathematical Theory of Finance",
+    "prereq_string": "APM346H1, STA347H1",
+    "prereq_list": [
+      "all",
+      "APM346H1",
+      "STA347H1"
+    ],
+    "coreq_string": "STA457H1",
+    "coreq_list": [
+      "all",
+      "STA457H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        86,
+        90,
+        9
+      ]
+    }
+  },
+  "APM496H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "APM496H1",
+    "title": "Independent Readings in Applied Mathematics",
+    "prereq_string": "minimum GPA 3.5 for APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "CSC108H1": {
+    "notes": "",
+    "name": "CSC108H1",
+    "title": "Introduction to Computer Programming",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC110Y1",
+      "CSC111H1",
+      "CSC120H1",
+      "CSC121H1",
+      "CSC148H1"
+    ],
+    "sessions": {
+      "Fall": [
+        2063,
+        2112,
+        0
+      ],
+      "Winter": [
+        1130,
+        1448,
+        53
+      ]
+    }
+  },
+  "CSC110Y1": {
+    "notes": "",
+    "name": "CSC110Y1",
+    "title": "Foundations of Computer Science I",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC108H1",
+      "CSC148H1",
+      "CSC165H1"
+    ],
+    "sessions": {
+      "Fall": [
+        500,
+        525,
+        0
+      ]
+    }
+  },
+  "CSC111H1": {
+    "notes": "",
+    "name": "CSC111H1",
+    "title": "Foundations of Computer Science II",
+    "prereq_string": "CSC110Y1 (70% or higher)",
+    "prereq_list": [
+      "all",
+      "CSC110Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC108H1",
+      "CSC148H1",
+      "CSC165H1"
+    ],
+    "sessions": {
+      "Winter": [
+        501,
+        525,
+        0
+      ]
+    }
+  },
+  "CSC148H1": {
+    "notes": "(equivalent programming experience)",
+    "name": "CSC148H1",
+    "title": "Introduction to Computer Science",
+    "prereq_string": "CSC108H1/ (equivalent programming experience)",
+    "prereq_list": [
+      "all",
+      "CSC108H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC111H1",
+      "CSC207H1"
+    ],
+    "sessions": {
+      "Fall": [
+        379,
+        392,
+        0
+      ],
+      "Winter": [
+        2310,
+        2482,
+        14
+      ]
+    }
+  },
+  "CSC165H1": {
+    "notes": "(equivalent programming experience)",
+    "name": "CSC165H1",
+    "title": "Mathematical Expression and Reasoning for Computer Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "CSC108H1/CSC120H1/(equivalent programming experience)",
+    "coreq_list": [
+      "any",
+      "CSC108H1",
+      "CSC120H1"
+    ],
+    "exclusions_list": [
+      "CSC111H1",
+      "CSC236H1",
+      "CSC240H1"
+    ],
+    "sessions": {
+      "Winter": [
+        764,
+        764,
+        482
+      ]
+    }
+  },
+  "CSC194H1": {
+    "notes": "",
+    "name": "CSC194H1",
+    "title": "Impactful Video Game Design",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        30,
+        30,
+        0
+      ]
+    }
+  },
+  "CSC196H1": {
+    "notes": "",
+    "name": "CSC196H1",
+    "title": "Great Ideas in Computing",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        30,
+        12
+      ]
+    }
+  },
+  "CSC199H1": {
+    "notes": "",
+    "name": "CSC199H1",
+    "title": "Intelligence, Artificial and Human",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "SMC199H1"
+    ],
+    "sessions": {
+      "Fall": [
+        30,
+        30,
+        0
+      ]
+    }
+  },
+  "CSC207H1": {
+    "notes": "",
+    "name": "CSC207H1",
+    "title": "Software Design",
+    "prereq_string": "60% or higher in CSC148H1/ 60% or higher in CSC111H1",
+    "prereq_list": [
+      "any",
+      "CSC148H1",
+      "CSC111H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        794,
+        900,
+        0
+      ]
+    }
+  },
+  "CSC209H1": {
+    "notes": "",
+    "name": "CSC209H1",
+    "title": "Software Tools and Systems Programming",
+    "prereq_string": "CSC207H1/ CSC207H5/ CSCB07H3",
+    "prereq_list": [
+      "all",
+      "CSC207H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC372H1",
+      "CSC369H1",
+      "CSC469H1"
+    ],
+    "sessions": {
+      "Fall": [
+        149,
+        150,
+        0
+      ],
+      "Winter": [
+        1199,
+        1410,
+        0
+      ]
+    }
+  },
+  "CSC236H1": {
+    "notes": "",
+    "name": "CSC236H1",
+    "title": "Introduction to the Theory of Computation",
+    "prereq_string": "(60% or higher in CSC148H1, 60% or higher in CSC165H1) / (60% or higher in CSC111H1)",
+    "prereq_list": [
+      "any",
+      [
+        "all",
+        "CSC148H1",
+        "CSC165H1"
+      ],
+      "CSC111H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC240H1"
+    ],
+    "sessions": {
+      "Fall": [
+        713,
+        750,
+        0
+      ]
+    }
+  },
+  "CSC240H1": {
+    "notes": "Uncleanable string: \"CSC110Y1 (with a minimum mark of at least 70%) / CSC165H1 (with a minimum mark of at least 85%) / students with a strong mathematical background who have not completed CSC110Y1 or CSC165H1 may enrol in CSC240H1 as an enriched alternative to CSC165H1\"Uncleanable string: \"Corequisite: CSC111H1/ CSC148H1; MAT137Y1/ MAT157Y1. MAT135H1 and MAT136H1 do not provide appropriate preparation for CSC240H1. Students with programming experience equivalent to CSC111H1/ CSC148H1 or who have completed math courses equivalent to MAT137Y1/ MAT157Y may apply for a corequisite waiver.\"",
+    "name": "CSC240H1",
+    "title": "Enriched Introduction to the Theory of Computation",
+    "prereq_string": "CSC110Y1 (with a minimum mark of at least 70%) / CSC165H1 (with a minimum mark of at least 85%) / students with a strong mathematical background who have not completed CSC110Y1 or CSC165H1 may enrol in CSC240H1 as an enriched alternative to CSC165H1",
+    "prereq_list": [
+      "any",
+      "CSC110Y1",
+      "CSC165H1"
+    ],
+    "coreq_string": "Corequisite: CSC111H1/ CSC148H1; MAT137Y1/ MAT157Y1. MAT135H1 and MAT136H1 do not provide appropriate preparation for CSC240H1. Students with programming experience equivalent to CSC111H1/ CSC148H1 or who have completed math courses equivalent to MAT137Y1/ MAT157Y may apply for a corequisite waiver.",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "CSC111H1",
+        "CSC148H1"
+      ],
+      "MAT137Y1"
+    ],
+    "exclusions_list": [
+      "CSC236H1",
+      "CSC263H1",
+      "CSC265H1"
+    ],
+    "sessions": {
+      "Winter": [
+        127,
+        127,
+        39
+      ]
+    }
+  },
+  "CSC258H1": {
+    "notes": "",
+    "name": "CSC258H1",
+    "title": "Computer Organization",
+    "prereq_string": "(60% or higher in (CSC148H1/ CSC148H5/ CSCA48H3), 60% or higher in (CSC165H1/ CSC240H1/ MAT102H5/ MATA67H3/ CSCA67H3))/ 60% or higher in CSC111H1",
+    "prereq_list": [
+      "any",
+      [
+        "all",
+        "CSC148H1",
+        [
+          "any",
+          "CSC165H1",
+          "CSC240H1"
+        ]
+      ],
+      "CSC111H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        330,
+        450,
+        0
+      ],
+      "Winter": [
+        570,
+        600,
+        13
+      ]
+    }
+  },
+  "CSC263H1": {
+    "notes": "",
+    "name": "CSC263H1",
+    "title": "Data Structures and Analysis",
+    "prereq_string": "CSC236H1/ \u200bCSC240H1/ CSC236H5/ CSCB36H3/ APS105H1/ APS106H1/ ESC180H1; STA237H1/ STA247H1/ \u200bSTA255H1/ \u200bSTA257H1/ STAB57H3/ STAB52H3/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ STA286H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC236H1",
+        "CSC240H1",
+        "APS105H1",
+        "APS106H1",
+        "ESC180H1"
+      ],
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "STA286H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC265H1"
+    ],
+    "sessions": {
+      "Fall": [
+        227,
+        300,
+        0
+      ],
+      "Winter": [
+        1164,
+        1200,
+        42
+      ]
+    }
+  },
+  "CSC265H1": {
+    "notes": "Uncleanable string: \"CSC240H1 (with a minimum mark of 70%)/ (CSC236H1 (with a minimum mark of 85%), MAT377H1/ STA237H1/ STA247H1/ STA255H1/ STA257H1). Notes: Students who have completed CSC240H1 must enrol in MAT377H1/ STA237H1/ STA247H1/ STA255H1/ STA257H1 concurrently with CSC265H1, if they have not already completed one of those courses. Students who have completed additional 200- or 300-level Mathematics courses may submit a prerequisite waiver request for permission to complete the statistics requirement as a co-requisite or to consider other courses as appropriate preparation for CSC265H1.\"",
+    "name": "CSC265H1",
+    "title": "Enriched Data Structures and Analysis",
+    "prereq_string": "CSC240H1 (with a minimum mark of 70%)/ (CSC236H1 (with a minimum mark of 85%), MAT377H1/ STA237H1/ STA247H1/ STA255H1/ STA257H1). Notes: Students who have completed CSC240H1 must enrol in MAT377H1/ STA237H1/ STA247H1/ STA255H1/ STA257H1 concurrently with CSC265H1, if they have not already completed one of those courses. Students who have completed additional 200- or 300-level Mathematics courses may submit a prerequisite waiver request for permission to complete the statistics requirement as a co-requisite or to consider other courses as appropriate preparation for CSC265H1.",
+    "prereq_list": [
+      "any",
+      "CSC240H1",
+      [
+        "all",
+        "CSC236H1",
+        [
+          "any",
+          "MAT377H1",
+          "STA237H1",
+          "STA247H1",
+          "STA255H1",
+          "STA257H1"
+        ]
+      ],
+      "STA237H1",
+      "STA247H1",
+      "STA255H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC263H1"
+    ],
+    "sessions": {
+      "Fall": [
+        23,
+        40,
+        0
+      ]
+    }
+  },
+  "CSC299H1": {
+    "notes": "",
+    "name": "CSC299H1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "CSC299Y1": {
+    "notes": "",
+    "name": "CSC299Y1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        8,
+        29997,
+        0
+      ]
+    }
+  },
+  "CSC300H1": {
+    "notes": "Prereq: ",
+    "name": "CSC300H1",
+    "title": "Computers and Society",
+    "prereq_string": "0.5 credit in CSC",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        243,
+        250,
+        0
+      ],
+      "Winter": [
+        473,
+        506,
+        165
+      ]
+    }
+  },
+  "CSC301H1": {
+    "notes": "",
+    "name": "CSC301H1",
+    "title": "Introduction to Software Engineering",
+    "prereq_string": "CSC209H1, CSC263H1/CSC265H1",
+    "prereq_list": [
+      "all",
+      "CSC209H1",
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        207,
+        220,
+        0
+      ],
+      "Winter": [
+        220,
+        220,
+        73
+      ]
+    }
+  },
+  "CSC309H1": {
+    "notes": "",
+    "name": "CSC309H1",
+    "title": "Programming on the Web",
+    "prereq_string": "CSC209H1/ CSC209H5/ CSCB09H3/ ESC180H1/ ESC190H1/ CSC190H1/ (APS105H1, ECE244H1)",
+    "prereq_list": [
+      "any",
+      "CSC209H1",
+      "ESC180H1",
+      "ESC190H1",
+      "CSC190H1",
+      [
+        "all",
+        "APS105H1",
+        "ECE244H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        240,
+        250,
+        0
+      ],
+      "Winter": [
+        110,
+        125,
+        64
+      ]
+    }
+  },
+  "CSC311H1": {
+    "notes": "Uncleanable string: \"CSC207H1/ APS105H1/ APS106H1/ ESC180H1/ CSC180H1; MAT235Y1/\u200b MAT237Y1/\u200b MAT257Y1/\u200b (minimum of 77% in MAT135H1 and MAT136H1)/ (minimum of 73% in MAT137Y1)/ (minimum of 67% in MAT157Y1)/ MAT291H1/ MAT294H1/ (minimum of 77% in MAT186H1, MAT187H1)/ (minimum of 73% in MAT194H1, MAT195H1)/ (minimum of 73% in ESC194H1, ESC195H1); MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1; STA237H1/ STA247H1/ STA255H1/ STA257H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1\"",
+    "name": "CSC311H1",
+    "title": "Introduction to Machine Learning",
+    "prereq_string": "CSC207H1/ APS105H1/ APS106H1/ ESC180H1/ CSC180H1; MAT235Y1/\u200b MAT237Y1/\u200b MAT257Y1/\u200b (minimum of 77% in MAT135H1 and MAT136H1)/ (minimum of 73% in MAT137Y1)/ (minimum of 67% in MAT157Y1)/ MAT291H1/ MAT294H1/ (minimum of 77% in MAT186H1, MAT187H1)/ (minimum of 73% in MAT194H1, MAT195H1)/ (minimum of 73% in ESC194H1, ESC195H1); MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1; STA237H1/ STA247H1/ STA255H1/ STA257H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC207H1",
+        "APS105H1",
+        "APS106H1",
+        "ESC180H1",
+        "CSC180H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        "MAT136H1",
+        "MAT291H1",
+        "MAT294H1",
+        "MAT187H1",
+        "MAT195H1",
+        "ESC195H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "MAT188H1"
+      ],
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC411H1",
+      "STA314H1",
+      "ECE421H1"
+    ],
+    "sessions": {
+      "Fall": [
+        238,
+        250,
+        0
+      ],
+      "Winter": [
+        250,
+        250,
+        145
+      ]
+    }
+  },
+  "CSC316H1": {
+    "notes": "",
+    "name": "CSC316H1",
+    "title": "Data Visualization: Foundations and Advanced Programming",
+    "prereq_string": "CSC207H1",
+    "prereq_list": [
+      "all",
+      "CSC207H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        125,
+        125,
+        59
+      ]
+    }
+  },
+  "CSC317H1": {
+    "notes": "",
+    "name": "CSC317H1",
+    "title": "Computer Graphics",
+    "prereq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1/ MAT291H1/ MAT292H1/ MAT294H1/ (MAT232H5/ MAT233H5, MAT236H5)/ (MATB41H3, MATB42H3); MAT223H1/ MAT240H1/ MAT223H5/ MATA22H3/ MAT185H1/ MAT188H1; CSC209H1/ CSC209H5/ CSCB09H3/ proficiency in C or C++/ APS105H1/ ESC180H1/ CSC180H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        "MAT291H1",
+        "MAT292H1",
+        "MAT294H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "MAT188H1"
+      ],
+      [
+        "any",
+        "CSC209H1",
+        "completed",
+        "APS105H1",
+        "ESC180H1",
+        "CSC180H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC418H1"
+    ],
+    "sessions": {
+      "Fall": [
+        223,
+        250,
+        0
+      ]
+    }
+  },
+  "CSC318H1": {
+    "notes": "Prereq: Uncleanable string: \"Any 0.5 credit in CSC/ ESC180H1/ ESC190H1/ APS105H1/ APS106H1\"",
+    "name": "CSC318H1",
+    "title": "The Design of Interactive Computational Media",
+    "prereq_string": "Any 0.5 credit in CSC/ ESC180H1/ ESC190H1/ APS105H1/ APS106H1",
+    "prereq_list": [
+      "any",
+      "ESC180H1",
+      "ESC190H1",
+      "APS105H1",
+      "APS106H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        235,
+        250,
+        0
+      ],
+      "Winter": [
+        125,
+        125,
+        51
+      ]
+    }
+  },
+  "CSC320H1": {
+    "notes": "",
+    "name": "CSC320H1",
+    "title": "Introduction to Visual Computing",
+    "prereq_string": "CSC263H1/ CSC265H1/ ECE345H1/ ECE358H1/ MIE335H1, MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1, ( MAT136H1 with a minimum mark of 77)/ (MAT137Y1 with a minimum mark of 73)/ (MAT157Y1 with a minimum mark of 67)/ MAT235Y1/ MAT237Y1/ MAT257Y1/ MAT291H1/ MAT292H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1",
+        "ECE345H1",
+        "ECE358H1",
+        "MIE335H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "MAT188H1"
+      ],
+      [
+        "any",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        "MAT291H1",
+        "MAT292H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        132,
+        250,
+        0
+      ],
+      "Winter": [
+        125,
+        125,
+        16
+      ]
+    }
+  },
+  "CSC324H1": {
+    "notes": "",
+    "name": "CSC324H1",
+    "title": "Principles of Programming Languages",
+    "prereq_string": "CSC263H1/CSC265H1",
+    "prereq_list": [
+      "any",
+      "CSC263H1",
+      "CSC265H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        155,
+        250,
+        0
+      ]
+    }
+  },
+  "CSC336H1": {
+    "notes": "",
+    "name": "CSC336H1",
+    "title": "Numerical Methods",
+    "prereq_string": "CSC148H1/ CSC111H1; MAT133Y1(70%)/ (MAT135H1, MAT136H1)/ MAT135Y1/ MAT137Y1/ MAT157Y1, MAT223H1/ MAT240H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC148H1",
+        "CSC111H1"
+      ],
+      [
+        "any",
+        "MAT133Y1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT135Y1",
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        125,
+        125,
+        19
+      ]
+    }
+  },
+  "CSC343H1": {
+    "notes": "",
+    "name": "CSC343H1",
+    "title": "Introduction to Databases",
+    "prereq_string": "CSC111H1/ CSC165H1/ \u200bCSC240H1/ \u200b(MAT135H1, MAT136H1)/ MAT135Y1/ MAT137Y1/ \u200bMAT157Y1/ (MAT186H1, MAT187H1)/ (MAT194H1, MAT195H1)/ (ESC194H1, ESC195H1); CSC207H1/ CSC207H5/ CSCB07H3/ ECE345H1/ ESC190H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC111H1",
+        "CSC165H1",
+        "CSC240H1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT135Y1",
+        "MAT137Y1",
+        "MAT157Y1",
+        [
+          "all",
+          "MAT186H1",
+          "MAT187H1"
+        ],
+        [
+          "all",
+          "MAT194H1",
+          "MAT195H1"
+        ],
+        [
+          "all",
+          "ESC194H1",
+          "ESC195H1"
+        ]
+      ],
+      [
+        "any",
+        "CSC207H1",
+        "ECE345H1",
+        "ESC190H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MIE253H1"
+    ],
+    "sessions": {
+      "Fall": [
+        408,
+        525,
+        0
+      ],
+      "Winter": [
+        500,
+        500,
+        156
+      ]
+    }
+  },
+  "CSC367H1": {
+    "notes": "",
+    "name": "CSC367H1",
+    "title": "Parallel Programming",
+    "prereq_string": "CSC258H1/ CSC258H5/ CSCB58H3; CSC209H1/ CSC209H5/ CSCB09H3 ",
+    "prereq_list": [
+      "all",
+      "CSC258H1",
+      "CSC209H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        125,
+        0
+      ]
+    }
+  },
+  "CSC368H1": {
+    "notes": "",
+    "name": "CSC368H1",
+    "title": "Computer Architecture",
+    "prereq_string": "CSC209H1, CSC258H1 ",
+    "prereq_list": [
+      "all",
+      "CSC209H1",
+      "CSC258H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ECE552H1"
+    ],
+    "sessions": {
+      "Winter": [
+        125,
+        125,
+        50
+      ]
+    }
+  },
+  "CSC369H1": {
+    "notes": "",
+    "name": "CSC369H1",
+    "title": "Operating Systems",
+    "prereq_string": "CSC209H1/ CSC209H5/ CSCB09H3; CSC258H1/ CSC258H5/ CSCB58H3",
+    "prereq_list": [
+      "all",
+      "CSC209H1",
+      "CSC258H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        370,
+        375,
+        0
+      ],
+      "Winter": [
+        250,
+        250,
+        121
+      ]
+    }
+  },
+  "CSC373H1": {
+    "notes": "",
+    "name": "CSC373H1",
+    "title": "Algorithm Design, Analysis & Complexity",
+    "prereq_string": "CSC263H1/ CSC265H1 / CSC263H5/ CSCB63H3",
+    "prereq_list": [
+      "any",
+      "CSC263H1",
+      "CSC265H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC375H1"
+    ],
+    "sessions": {
+      "Fall": [
+        242,
+        250,
+        0
+      ],
+      "Winter": [
+        671,
+        750,
+        63
+      ]
+    }
+  },
+  "CSC384H1": {
+    "notes": "Prereq: 9.0 creditsUncleanable string: \"(CSC263H1/\u200b CSC265H1/ CSC263H5/ CSCB63H3/ ECE345H1/ ECE358H1/ MIE245H1/ (CSC148H1, enrolled in ASMAJ1446A, completed at least 9.0 credits), STA220H1/ STA237H1/ STA247H1/\u200b STA255H1/\u200b STA257H1/ STAB57H3/ STAB52H3/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1/ PSY201H1)\"",
+    "name": "CSC384H1",
+    "title": "Introduction to Artificial Intelligence",
+    "prereq_string": "(CSC263H1/\u200b CSC265H1/ CSC263H5/ CSCB63H3/ ECE345H1/ ECE358H1/ MIE245H1/ (CSC148H1, enrolled in ASMAJ1446A, completed at least 9.0 credits), STA220H1/ STA237H1/ STA247H1/\u200b STA255H1/\u200b STA257H1/ STAB57H3/ STAB52H3/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1/ PSY201H1)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1",
+        "ECE345H1",
+        "ECE358H1",
+        "MIE245H1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "STA220H1",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1",
+        "PSY201H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MIE369H1"
+    ],
+    "sessions": {
+      "Fall": [
+        244,
+        250,
+        0
+      ],
+      "Winter": [
+        500,
+        500,
+        172
+      ]
+    }
+  },
+  "CSC399Y1": {
+    "notes": "",
+    "name": "CSC399Y1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        19998,
+        0
+      ]
+    }
+  },
+  "CSC401H1": {
+    "notes": "",
+    "name": "CSC401H1",
+    "title": "Natural Language Computing",
+    "prereq_string": "CSC207H1/ CSC209H1/ CSC207H5/ CSCB07H3/ CSC209H5/ CSCB09H3/ APS105H1/ APS106H1/ ESC180H1/ CSC180H1; STA237H1/ STA247H1/\u200b STA255H1/ \u200bSTA257H1/ STAB57H3/ STAB52H3/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC207H1",
+        "CSC209H1",
+        "APS105H1",
+        "APS106H1",
+        "ESC180H1",
+        "CSC180H1"
+      ],
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        168,
+        190,
+        0
+      ]
+    }
+  },
+  "CSC404H1": {
+    "notes": "",
+    "name": "CSC404H1",
+    "title": "Introduction to Video Game Design",
+    "prereq_string": "CSC301H1/ CSC317H1/ CSC318H1/ CSC384H1/ CSC417H1/ CSC418H1/ CSC419H1",
+    "prereq_list": [
+      "any",
+      "CSC301H1",
+      "CSC317H1",
+      "CSC318H1",
+      "CSC384H1",
+      "CSC417H1",
+      "CSC418H1",
+      "CSC419H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        40,
+        40,
+        0
+      ],
+      "Winter": [
+        40,
+        40,
+        0
+      ]
+    }
+  },
+  "CSC410H1": {
+    "notes": "",
+    "name": "CSC410H1",
+    "title": "Software Testing and Verification",
+    "prereq_string": "CSC207H1, CSC236H1/CSC240H1",
+    "prereq_list": [
+      "all",
+      "CSC207H1",
+      [
+        "any",
+        "CSC236H1",
+        "CSC240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        160,
+        0
+      ]
+    }
+  },
+  "CSC412H1": {
+    "notes": "",
+    "name": "CSC412H1",
+    "title": "Probabilistic Learning and Reasoning",
+    "prereq_string": "CSC311H1/ CSC411H1/ STA314H1/ ECE421H1/ ROB313H1/ CSCC11H3/ CSC311H5",
+    "prereq_list": [
+      "any",
+      "CSC311H1",
+      "CSC411H1",
+      "STA314H1",
+      "ECE421H1",
+      "ROB313H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "STA414H1"
+    ],
+    "sessions": {
+      "Winter": [
+        180,
+        180,
+        52
+      ]
+    }
+  },
+  "CSC413H1": {
+    "notes": "",
+    "name": "CSC413H1",
+    "title": "Neural Networks and Deep Learning",
+    "prereq_string": "CSC311H1/\u200b CSC311H5/ CSCC11H3/ CSC411H1/ STA314H1/ ECE421H1/ ROB313H1/; MAT235Y1/\u200b MAT237Y1/\u200b MAT257Y1/ MAT257Y5/ MAT291H1/ MAT294H1/ AER210H1/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5)/ (MATB41H3, MATB42H3); MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1/ MAT223H5/ MATA23H3",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC311H1",
+        "CSC411H1",
+        "STA314H1",
+        "ECE421H1",
+        "ROB313H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        "MAT291H1",
+        "MAT294H1",
+        "AER210H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "MAT188H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC321H1",
+      "CSC421H1"
+    ],
+    "sessions": {
+      "Fall": [
+        195,
+        210,
+        0
+      ],
+      "Winter": [
+        210,
+        210,
+        260
+      ]
+    }
+  },
+  "CSC419H1": {
+    "notes": "",
+    "name": "CSC419H1",
+    "title": "Geometry Processing",
+    "prereq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1/ MAT291H1/ MAT294H1; MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1; CSC209H1/ proficiency in C or C++/ APS105H1/ ESC180H1/ CSC180H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        "MAT291H1",
+        "MAT294H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "MAT188H1"
+      ],
+      [
+        "any",
+        "CSC209H1",
+        "completed",
+        "APS105H1",
+        "ESC180H1",
+        "CSC180H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        70,
+        0
+      ]
+    }
+  },
+  "CSC420H1": {
+    "notes": "Uncleanable string: \"For 2024-25: CSC263H1/ CSC265H1/ ECE345H1/ ECE358H1/ MIE335H1; (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1/ (MAT186H1, MAT187H1)/ (MAT194H1, MAT195H1)/ (ESC194H1, ESC195H1); MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1  Beginning Fall 2025: CSC263H1/ CSC265H1/ ECE345H1/ ECE358H1/ MIE335H1; CSC311H1; CSC320H1. We encourage students interested in taking CSC420H1 in 2025-26 or beyond to include CSC263H1, CSC311H1 and CSC320H1 in their enrolment plans for 2024-25.\"",
+    "name": "CSC420H1",
+    "title": "Introduction to Image Understanding",
+    "prereq_string": "For 2024-25: CSC263H1/ CSC265H1/ ECE345H1/ ECE358H1/ MIE335H1; (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1/ (MAT186H1, MAT187H1)/ (MAT194H1, MAT195H1)/ (ESC194H1, ESC195H1); MAT223H1/ MAT240H1/ MAT185H1/ MAT188H1  Beginning Fall 2025: CSC263H1/ CSC265H1/ ECE345H1/ ECE358H1/ MIE335H1; CSC311H1; CSC320H1. We encourage students interested in taking CSC420H1 in 2025-26 or beyond to include CSC263H1, CSC311H1 and CSC320H1 in their enrolment plans for 2024-25.",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC265H1",
+        "ECE345H1",
+        "ECE358H1",
+        "MIE335H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1",
+        [
+          "all",
+          "MAT186H1",
+          "MAT187H1"
+        ],
+        [
+          "all",
+          "MAT194H1",
+          "MAT195H1"
+        ],
+        [
+          "all",
+          "ESC194H1",
+          "ESC195H1"
+        ]
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1",
+        "MAT185H1",
+        "CSC265H1",
+        "ECE345H1",
+        "ECE358H1",
+        "MIE335H1"
+      ],
+      "CSC311H1",
+      "CSC311H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        131,
+        150,
+        0
+      ],
+      "Winter": [
+        180,
+        180,
+        105
+      ]
+    }
+  },
+  "CSC428H1": {
+    "notes": "",
+    "name": "CSC428H1",
+    "title": "Human-Computer Interaction",
+    "prereq_string": "CSC318H1; STA237H1/ STA247H1/ \u200bSTA255H1/ \u200bSTA257H1/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1; CSC207H1/ APS105H1/ ESC180H1/ CSC180H1",
+    "prereq_list": [
+      "all",
+      "CSC318H1",
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1"
+      ],
+      [
+        "any",
+        "CSC207H1",
+        "APS105H1",
+        "ESC180H1",
+        "CSC180H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        64,
+        65,
+        0
+      ],
+      "Winter": [
+        85,
+        85,
+        45
+      ]
+    }
+  },
+  "CSC443H1": {
+    "notes": "",
+    "name": "CSC443H1",
+    "title": "Database System Technology",
+    "prereq_string": "CSC343H1, CSC369H1, CSC373H1/CSC375H1",
+    "prereq_list": [
+      "all",
+      "CSC343H1",
+      "CSC369H1",
+      [
+        "any",
+        "CSC373H1",
+        "CSC375H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        75,
+        75,
+        0
+      ]
+    }
+  },
+  "CSC446H1": {
+    "notes": "Note: can skip some prereqs with enough math experienceNote: Might need PDE exposure",
+    "name": "CSC446H1",
+    "title": "Computational Methods for Partial Differential Equations",
+    "prereq_string": "CSC351H1/ (CSC336H1 (75%))/ equivalent mathematical background; MAT237Y1/ MAT257Y1; APM346H1/ MAT351Y1/ (MAT244H1/ MAT267H1 and exposure to PDEs)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC351H1",
+        "CSC336H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "APM346H1",
+        "MAT351Y1",
+        [
+          "any",
+          "MAT244H1",
+          "MAT267H1"
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        15,
+        15,
+        1
+      ]
+    }
+  },
+  "CSC448H1": {
+    "notes": "",
+    "name": "CSC448H1",
+    "title": "Formal Languages and Automata",
+    "prereq_string": "CSC236H1/CSC240H1, CSC263H1/CSC265H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC236H1",
+        "CSC240H1"
+      ],
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        75,
+        75,
+        20
+      ]
+    }
+  },
+  "CSC454H1": {
+    "notes": "Prereq: ('', '', 's', '', '-', ' or higher', '')",
+    "name": "CSC454H1",
+    "title": "The Business of Software",
+    "prereq_string": "2.5 credits at the 300-level or higher",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        34,
+        35,
+        0
+      ]
+    }
+  },
+  "CSC457H1": {
+    "notes": "",
+    "name": "CSC457H1",
+    "title": "Principles of Computer Networks",
+    "prereq_string": "CSC373H1/ CSC373H5/ CSCC73H3, STA247H1/ STA255H1/ STA257H1/ STA237H1",
+    "prereq_list": [
+      "all",
+      "CSC373H1",
+      [
+        "any",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "STA237H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        90,
+        90,
+        24
+      ]
+    }
+  },
+  "CSC458H1": {
+    "notes": "",
+    "name": "CSC458H1",
+    "title": "Computer Networking Systems",
+    "prereq_string": "CSC209H1, CSC258H1, CSC263H1/ CSC265H1, STA247H1/ STA255H1/ STA257H1/ STA237H1/ ECO227Y1",
+    "prereq_list": [
+      "all",
+      "CSC209H1",
+      "CSC258H1",
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1"
+      ],
+      [
+        "any",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "STA237H1",
+        "ECO227Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        135,
+        140,
+        0
+      ],
+      "Winter": [
+        160,
+        160,
+        97
+      ]
+    }
+  },
+  "CSC463H1": {
+    "notes": "",
+    "name": "CSC463H1",
+    "title": "Computational Complexity and Computability",
+    "prereq_string": "CSC236H1/ CSC240H1/ CSC236H5/ CSCB36H3",
+    "prereq_list": [
+      "any",
+      "CSC236H1",
+      "CSC240H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC363H1",
+      "CSC365H1"
+    ],
+    "sessions": {
+      "Fall": [
+        84,
+        90,
+        0
+      ]
+    }
+  },
+  "CSC465H1": {
+    "notes": "",
+    "name": "CSC465H1",
+    "title": "Formal Methods in Software Design",
+    "prereq_string": "CSC236H1/ CSC240H1/ MAT309H1/ CSC236H5/ CSCB36H3",
+    "prereq_list": [
+      "any",
+      "CSC236H1",
+      "CSC240H1",
+      "MAT309H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        76,
+        85,
+        0
+      ]
+    }
+  },
+  "CSC485H1": {
+    "notes": "",
+    "name": "CSC485H1",
+    "title": "Computational Linguistics",
+    "prereq_string": "CSC209H1/ APS105H1/ APS106H1/ ESC180H1/ CSC180H1; STA237H1/ STA247H1/\u200b STA255H1/ \u200bSTA257H1/ ECE302H1/ STA286H1/ CHE223H1/ CME263H1/ MIE231H1/ MIE236H1/ MSE238H1/ ECE286H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC209H1",
+        "APS105H1",
+        "APS106H1",
+        "ESC180H1",
+        "CSC180H1"
+      ],
+      [
+        "any",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        152,
+        160,
+        0
+      ]
+    }
+  },
+  "CSC486H1": {
+    "notes": "",
+    "name": "CSC486H1",
+    "title": "Knowledge Representation and Reasoning",
+    "prereq_string": "CSC384H1/ CSC384H5/ ROB311H1",
+    "prereq_list": [
+      "any",
+      "CSC384H1",
+      "ROB311H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        72,
+        75,
+        0
+      ]
+    }
+  },
+  "CSC488H1": {
+    "notes": "",
+    "name": "CSC488H1",
+    "title": "Compilers and Interpreters",
+    "prereq_string": "CSC258H1/ CSC258H5/ CSCB58H3, CSC324H1/ CSC324H5/ CSCC24H3, CSC263H1/ CSC265H1/ CSC263H5/ CSCB63H3",
+    "prereq_list": [
+      "all",
+      "CSC258H1",
+      "CSC324H1",
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        70,
+        70,
+        48
+      ]
+    }
+  },
+  "CSC490H1": {
+    "notes": "Prereq: 1.5 credits of 300+ level CSC courses",
+    "name": "CSC490H1",
+    "title": "Capstone Design Project",
+    "prereq_string": "1.5 credits of 300+ level CSC courses.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        30,
+        0
+      ]
+    }
+  },
+  "CSC491H1": {
+    "notes": "Uncleanable string: \"CSC454H1/ CSC2527H\"",
+    "name": "CSC491H1",
+    "title": "Capstone Design Project",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "CSC454H1/ CSC2527H",
+    "coreq_list": [
+      "all",
+      "CSC454H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        34,
+        35,
+        0
+      ]
+    }
+  },
+  "CSC494H1": {
+    "notes": "Prereq: 1.5 credits of 300+ level CSC courses",
+    "name": "CSC494H1",
+    "title": "Computer Science Project",
+    "prereq_string": "1.5 credits of 300+ level CSC courses.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        72,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "CSC494Y1": {
+    "notes": "Prereq: 1.5 credits of 300+ level CSC courses",
+    "name": "CSC494Y1",
+    "title": "Computer Science Project",
+    "prereq_string": "1.5 credits of 300+ level CSC courses.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        12,
+        9999,
+        0
+      ]
+    }
+  },
+  "CSC495H1": {
+    "notes": "Prereq: 1.5 credits of 300+ level CSC courses",
+    "name": "CSC495H1",
+    "title": "Computer Science Project",
+    "prereq_string": "CSC494H1. 1.5 credits of 300+ level CSC courses.",
+    "prereq_list": [
+      "all",
+      "CSC494H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        40,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "ENV237H1": {
+    "notes": "",
+    "name": "ENV237H1",
+    "title": "Physics of the Changing Environment A",
+    "prereq_string": "MAT135H1/MAT136H1/MAT137Y1/MAT157Y1/JMB170Y1, CHM136H1/CHM138H1/CHM135H1/CHM139H1/CHM151Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1",
+        "JMB170Y1"
+      ],
+      [
+        "any",
+        "CHM136H1",
+        "CHM138H1",
+        "CHM135H1",
+        "CHM139H1",
+        "CHM151Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ENV238H1",
+      "PHY131H1",
+      "PHY132H1",
+      "PHY151H1",
+      "PHY152H1"
+    ],
+    "sessions": {
+      "Winter": [
+        25,
+        33,
+        0
+      ]
+    }
+  },
+  "ENV238H1": {
+    "notes": "",
+    "name": "ENV238H1",
+    "title": "Physics of the Changing Environment B",
+    "prereq_string": "MAT135H1/MAT136H1/MAT137Y1/MAT157Y1/JMB170Y1, CHM136H1/CHM138H1/CHM135H1/CHM139H1/CHM151Y1, PHY131H1/PHY132H1/PHY151H1/PHY152H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1",
+        "JMB170Y1"
+      ],
+      [
+        "any",
+        "CHM136H1",
+        "CHM138H1",
+        "CHM135H1",
+        "CHM139H1",
+        "CHM151Y1"
+      ],
+      [
+        "any",
+        "PHY131H1",
+        "PHY132H1",
+        "PHY151H1",
+        "PHY152H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ENV237H1"
+    ],
+    "sessions": {
+      "Winter": [
+        3,
+        11,
+        0
+      ]
+    }
+  },
+  "JPE395H1": {
+    "notes": "",
+    "name": "JPE395H1",
+    "title": "Physics of the Earth",
+    "prereq_string": "PHY132H1/PHY152H1/PHY180H1/MIE100H1, MAT235Y1/MAT237Y1/MAT291H1/AER210H1, PHY254H1/PHY293H1/MAT244H1/MAT267H1/MAT290H1/MAT292H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1",
+        "PHY180H1",
+        "MIE100H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT291H1",
+        "AER210H1"
+      ],
+      [
+        "any",
+        "PHY254H1",
+        "PHY293H1",
+        "MAT244H1",
+        "MAT267H1",
+        "MAT290H1",
+        "MAT292H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        77,
+        90,
+        0
+      ]
+    }
+  },
+  "JPE493H1": {
+    "notes": "",
+    "name": "JPE493H1",
+    "title": "Seismology",
+    "prereq_string": "JPE395H1/JGA305H1",
+    "prereq_list": [
+      "any",
+      "JPE395H1",
+      "JGA305H1"
+    ],
+    "coreq_string": "APM346H1/ MAT351Y1",
+    "coreq_list": [
+      "any",
+      "APM346H1",
+      "MAT351Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        4,
+        20,
+        0
+      ]
+    }
+  },
+  "JPH441H1": {
+    "notes": "Note: Can take with instructor permission",
+    "name": "JPH441H1",
+    "title": "Physical Science in Contemporary Society",
+    "prereq_string": "PHY224H1/PHY250H1/PHY252H1/PHY254H1/PHY256H1, or by permission of the instructor.",
+    "prereq_list": [
+      "any",
+      "PHY224H1",
+      "PHY250H1",
+      "PHY252H1",
+      "PHY254H1",
+      "PHY256H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        48,
+        80,
+        0
+      ]
+    }
+  },
+  "JSC270H1": {
+    "notes": "",
+    "name": "JSC270H1",
+    "title": "Data Science I",
+    "prereq_string": "STA257H1, CSC207H1",
+    "prereq_list": [
+      "all",
+      "STA257H1",
+      "CSC207H1"
+    ],
+    "coreq_string": "STA261H1, MAT237Y1/MAT257Y1, CSC236H1/CSC240H1",
+    "coreq_list": [
+      "all",
+      "STA261H1",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "CSC236H1",
+        "CSC240H1"
+      ]
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        52,
+        60,
+        0
+      ]
+    }
+  },
+  "JSC370H1": {
+    "notes": "",
+    "name": "JSC370H1",
+    "title": "Data Science II",
+    "prereq_string": "JSC270H1, STA261H1, MAT237Y1/ MAT257Y1, CSC263H1/ CSC265H1/ CSC263H5/ CSCB63H3, STA302H1, CSC343H1/ CSC343H5/ CSCC43H3",
+    "prereq_list": [
+      "all",
+      "JSC270H1",
+      "STA261H1",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "CSC263H1",
+        "CSC265H1"
+      ],
+      "STA302H1",
+      "CSC343H1"
+    ],
+    "coreq_string": "STA303H1/STA305H1",
+    "coreq_list": [
+      "any",
+      "STA303H1",
+      "STA305H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        36,
+        48,
+        0
+      ]
+    }
+  },
+  "MAT133Y1": {
+    "notes": "",
+    "name": "MAT133Y1",
+    "title": "Calculus and Linear Algebra for Commerce",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        1212,
+        1264,
+        0
+      ]
+    }
+  },
+  "MAT135H1": {
+    "notes": "",
+    "name": "MAT135H1",
+    "title": "Calculus I",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "APS162H1",
+      "APS163H1",
+      "ESC194H1",
+      "ESC195H1",
+      "MAT186H1",
+      "MAT187H1",
+      "MAT196H1",
+      "MAT197H1"
+    ],
+    "sessions": {
+      "Fall": [
+        2822,
+        3023,
+        0
+      ],
+      "Winter": [
+        647,
+        1340,
+        0
+      ]
+    }
+  },
+  "MAT136H1": {
+    "notes": "",
+    "name": "MAT136H1",
+    "title": "Calculus II",
+    "prereq_string": "MAT135H1/ MAT135H5/ MATA30H3/ MATA31H3/ APS162H1/ ESC194H1/ MAT186H1/ MAT196H1",
+    "prereq_list": [
+      "any",
+      "MAT135H1",
+      "APS162H1",
+      "ESC194H1",
+      "MAT186H1",
+      "MAT196H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "APS163H1",
+      "ESC195H1",
+      "MAT187H1",
+      "MAT197H1"
+    ],
+    "sessions": {
+      "Fall": [
+        323,
+        340,
+        0
+      ],
+      "Winter": [
+        5181,
+        5478,
+        30
+      ]
+    }
+  },
+  "MAT137Y1": {
+    "notes": "",
+    "name": "MAT137Y1",
+    "title": "Calculus with Proofs",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        1649,
+        1840,
+        0
+      ]
+    }
+  },
+  "MAT138H1": {
+    "notes": "",
+    "name": "MAT138H1",
+    "title": "Introduction to Proofs",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        70,
+        85,
+        0
+      ]
+    }
+  },
+  "MAT157Y1": {
+    "notes": "",
+    "name": "MAT157Y1",
+    "title": "Analysis I",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        349,
+        400,
+        0
+      ]
+    }
+  },
+  "MAT195H1": {
+    "notes": "",
+    "name": "MAT195H1",
+    "title": "Mathematics as an Interdisciplinary Pursuit",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        15,
+        25,
+        0
+      ]
+    }
+  },
+  "MAT198H1": {
+    "notes": "",
+    "name": "MAT198H1",
+    "title": "Cryptology: The Mathematics of Secrecy and Security",
+    "prereq_string": "High school level algebra.",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "MAT199H1": {
+    "notes": "",
+    "name": "MAT199H1",
+    "title": "Aha! Mathematical Discovery and Creative Problem Solving",
+    "prereq_string": "High school level algebra",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        22,
+        25,
+        0
+      ]
+    }
+  },
+  "MAT223H1": {
+    "notes": "",
+    "name": "MAT223H1",
+    "title": "Linear Algebra I",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT224H1",
+      "MAT240H1",
+      "MAT247H1",
+      "MAT185H1",
+      "MAT188H1"
+    ],
+    "sessions": {
+      "Fall": [
+        1500,
+        1524,
+        0
+      ],
+      "Winter": [
+        1595,
+        2270,
+        0
+      ]
+    }
+  },
+  "MAT224H1": {
+    "notes": "",
+    "name": "MAT224H1",
+    "title": "Linear Algebra II",
+    "prereq_string": "MAT221H1(80%)/MAT223H1/MAT223H5/ MATA22H3/ MATA23H3/ MAT240H1/MAT240H5",
+    "prereq_list": [
+      "any",
+      "MAT221H1",
+      "MAT223H1",
+      "MAT240H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        465,
+        492,
+        0
+      ],
+      "Winter": [
+        1976,
+        2065,
+        45
+      ]
+    }
+  },
+  "MAT235Y1": {
+    "notes": "",
+    "name": "MAT235Y1",
+    "title": "Multivariable Calculus",
+    "prereq_string": "MAT133Y1/ MAT133Y5/ (MATA32H3, MATA33H3)/ (MAT135H1, MAT136H1)/ (MAT135H5, MAT136H5)/ (MATA30H3/ MATA31H3, MATA36H3/MATA37H3)/ MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5) ",
+    "prereq_list": [
+      "any",
+      "MAT133Y1",
+      [
+        "all",
+        "MAT135H1",
+        "MAT136H1"
+      ],
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT237Y1",
+      "MAT291H1",
+      "MAT294H1"
+    ],
+    "sessions": {
+      "Fall-Winter": [
+        1488,
+        1509,
+        0
+      ]
+    }
+  },
+  "MAT237Y1": {
+    "notes": "",
+    "name": "MAT237Y1",
+    "title": "Multivariable Calculus with Proofs",
+    "prereq_string": "[MAT133Y1/ (MAT135H1, MAT136H1)/ (MAT135H5, MAT136H5)/ (MATA30H3/ MATA31H3, MATA36H3), MAT138H1/ MAT102H5/ MAT246H1]/ MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ (MATA30H3/ MATA31H3, MATA37H3)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5), MAT223H1/ MATA22H3/ MATA23H3/ MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        [
+          "all",
+          [
+            "any",
+            "MAT133Y1",
+            [
+              "all",
+              "MAT135H1",
+              "MAT136H1"
+            ]
+          ],
+          [
+            "any",
+            "MAT138H1",
+            "MAT246H1"
+          ]
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        487,
+        612,
+        0
+      ]
+    }
+  },
+  "MAT240H1": {
+    "notes": "",
+    "name": "MAT240H1",
+    "title": "Algebra I",
+    "prereq_string": "High school level calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "MAT157Y1",
+    "coreq_list": [
+      "all",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        291,
+        354,
+        0
+      ]
+    }
+  },
+  "MAT244H1": {
+    "notes": "",
+    "name": "MAT244H1",
+    "title": "Introduction to Ordinary Differential Equations",
+    "prereq_string": "(MAT133Y1/ MAT135H1/ MAT135H5/ MATA35H3/ MATA30H3/ MATA31H3, MAT136H1/ MAT136H5/ MATA36H3/ MATA37H3)/ MAT135Y5/ MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5), MAT223H1/ MATA23H3/ MAT223H5/ MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        [
+          "all",
+          [
+            "any",
+            "MAT133Y1",
+            "MAT135H1"
+          ],
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "any",
+      "MAT235Y1",
+      "MAT237Y1",
+      "MAT257Y1"
+    ],
+    "exclusions_list": [
+      "MAT292H1",
+      "MAT267H1"
+    ],
+    "sessions": {
+      "Fall": [
+        737,
+        811,
+        0
+      ],
+      "Winter": [
+        1069,
+        1168,
+        3
+      ]
+    }
+  },
+  "MAT246H1": {
+    "notes": "",
+    "name": "MAT246H1",
+    "title": "Concepts in Abstract Mathematics",
+    "prereq_string": "MAT133Y1/ MAT133Y5/ (MATA32H3, MATA33H3)/ (MAT135H1, MAT136H1)/ (MAT135H5, MAT136H5)/ (MATA30H3/ MATA31H3, MATA36H3/ MATA37H3)/ MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5), MAT223H1/ MATA22H3/ MATA23H3/ MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT133Y1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT157Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        406,
+        420,
+        0
+      ],
+      "Winter": [
+        788,
+        840,
+        71
+      ]
+    }
+  },
+  "MAT247H1": {
+    "notes": "",
+    "name": "MAT247H1",
+    "title": "Algebra II",
+    "prereq_string": "MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "all",
+      "MAT240H1"
+    ],
+    "coreq_string": "MAT157Y1",
+    "coreq_list": [
+      "all",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        218,
+        218,
+        77
+      ]
+    }
+  },
+  "MAT257Y1": {
+    "notes": "",
+    "name": "MAT257Y1",
+    "title": "Analysis II",
+    "prereq_string": "MAT157Y1/ (MAT157H5, MAT159H5)/ MAT157Y5, MAT247H1/ MAT247H5",
+    "prereq_list": [
+      "all",
+      "MAT157Y1",
+      "MAT247H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        108,
+        120,
+        0
+      ]
+    }
+  },
+  "MAT267H1": {
+    "notes": "",
+    "name": "MAT267H1",
+    "title": "Advanced Ordinary Differential Equations",
+    "prereq_string": "MAT157Y1/ (MAT157H5, MAT159H5)/ MAT157Y5, MAT247H1/ MAT247H5",
+    "prereq_list": [
+      "all",
+      "MAT157Y1",
+      "MAT247H1"
+    ],
+    "coreq_string": "MAT257Y1",
+    "coreq_list": [
+      "all",
+      "MAT257Y1"
+    ],
+    "exclusions_list": [
+      "MAT234H1",
+      "MAT292H1"
+    ],
+    "sessions": {
+      "Winter": [
+        120,
+        120,
+        8
+      ]
+    }
+  },
+  "MAT271H1": {
+    "notes": "",
+    "name": "MAT271H1",
+    "title": "Insights from Mathematics",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        13,
+        25,
+        0
+      ]
+    }
+  },
+  "MAT296H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT296H1",
+    "title": "Independent Reading in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT301H1": {
+    "notes": "",
+    "name": "MAT301H1",
+    "title": "Groups and Symmetries",
+    "prereq_string": "MAT257Y1/ (MAT224H1/ MAT247H1, MAT235Y1/ MAT237Y1, MAT246H1/ MAT157Y1/ (MAT157H5, MAT159H5)/ MAT157Y5/ CSC236H1/ CSC240H1)/ (MAT185H1, MAT194H1, MAT195H1)",
+    "prereq_list": [
+      "any",
+      "MAT257Y1",
+      [
+        "all",
+        [
+          "any",
+          "MAT224H1",
+          "MAT247H1"
+        ],
+        [
+          "any",
+          "MAT235Y1",
+          "MAT237Y1"
+        ],
+        [
+          "any",
+          "MAT246H1",
+          "MAT157Y1",
+          "CSC236H1",
+          "CSC240H1"
+        ]
+      ],
+      [
+        "all",
+        "MAT185H1",
+        "MAT194H1",
+        "MAT195H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT347Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        330,
+        360,
+        0
+      ],
+      "Winter": [
+        593,
+        654,
+        85
+      ]
+    }
+  },
+  "MAT309H1": {
+    "notes": "",
+    "name": "MAT309H1",
+    "title": "Introduction to Mathematical Logic",
+    "prereq_string": "MAT257Y1/ [MAT223H1/ MATA23H3/ MAT223H5/ MAT240H1/ MAT240H5, MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3/ MATB43H3)/ MAT237Y1/ MAT237Y5, MAT246H1/ MAT157Y1/ (MAT157H5, MAT159H5)/ MAT157Y5/ CSC236H1/ CSC240H1]",
+    "prereq_list": [
+      "any",
+      "MAT257Y1",
+      [
+        "all",
+        [
+          "any",
+          "MAT223H1",
+          "MAT240H1"
+        ],
+        [
+          "any",
+          "MAT235Y1",
+          "MAT237Y1"
+        ],
+        [
+          "any",
+          "MAT246H1",
+          "MAT157Y1",
+          "CSC236H1",
+          "CSC240H1"
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC438H1"
+    ],
+    "sessions": {
+      "Fall": [
+        148,
+        175,
+        0
+      ]
+    }
+  },
+  "MAT315H1": {
+    "notes": "",
+    "name": "MAT315H1",
+    "title": "Introduction to Number Theory",
+    "prereq_string": "(MAT223H1/ MATA23H3/ MAT223H5/ MAT240H1/ MAT240H5, MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3)/ MAT237Y1/ (MATB41H3, MATB42H3, MATB43H3)/ MAT237Y5, MAT246H1/ CSC236H1/ CSC240H1)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5)/ MAT247H1/ MAT247H5",
+    "prereq_list": [
+      "any",
+      [
+        "all",
+        [
+          "any",
+          "MAT223H1",
+          "MAT240H1"
+        ],
+        [
+          "any",
+          "MAT235Y1",
+          "MAT237Y1"
+        ],
+        [
+          "any",
+          "MAT246H1",
+          "CSC236H1",
+          "CSC240H1"
+        ]
+      ],
+      "MAT157Y1",
+      "MAT247H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        149,
+        150,
+        0
+      ],
+      "Winter": [
+        617,
+        670,
+        78
+      ]
+    }
+  },
+  "MAT327H1": {
+    "notes": "",
+    "name": "MAT327H1",
+    "title": "Introduction to Topology",
+    "prereq_string": "MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5)/ [(MAT237Y1/ (MATB41H3, MATB42H3/ MATB43H3)/ MAT237Y5), MAT246H1]",
+    "prereq_list": [
+      "any",
+      "MAT157Y1",
+      [
+        "all",
+        "MAT237Y1",
+        "MAT246H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        100,
+        104,
+        0
+      ]
+    }
+  },
+  "MAT329Y1": {
+    "notes": "Need 5.0 credits with a CGPA of at least 2.5, and",
+    "name": "MAT329Y1",
+    "title": "Concepts in Elementary Mathematics",
+    "prereq_string": "5.0 credits with a CGPA of at least 2.5, and MAT137Y1/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT138H1/ (MAT223H1/ MAT240H1)/ [MAT246H1/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5)]\u00a0",
+    "prereq_list": [
+      "any",
+      "MAT137Y1",
+      "MAT138H1",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT246H1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        42,
+        50,
+        0
+      ]
+    }
+  },
+  "MAT332H1": {
+    "notes": "",
+    "name": "MAT332H1",
+    "title": "Introduction to Graph Theory",
+    "prereq_string": "MAT224H1/MATB24H3/MAT224H5/MAT247H1/MAT247H5",
+    "prereq_list": [
+      "any",
+      "MAT224H1",
+      "MAT247H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        97,
+        100,
+        0
+      ]
+    }
+  },
+  "MAT334H1": {
+    "notes": "",
+    "name": "MAT334H1",
+    "title": "Complex Variables",
+    "prereq_string": "MAT223H1/MATA23H3/MAT223H5/MAT240H1/MAT240H5, MAT235Y1/MAT235Y5/(MAT232H5, MAT236H5)/(MATB41H3, MATB42H3)/MAT237Y1/(MATB41H3, MATB42H3, MATB43H3)/MAT237Y5/MAT257Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT354H1"
+    ],
+    "sessions": {
+      "Fall": [
+        445,
+        458,
+        0
+      ],
+      "Winter": [
+        753,
+        784,
+        50
+      ]
+    }
+  },
+  "MAT335H1": {
+    "notes": "",
+    "name": "MAT335H1",
+    "title": "Chaos, Fractals and Dynamics",
+    "prereq_string": "MAT137Y1/ (MATA30H3, MATA31H3, MATA37H3)/ MAT137Y5/ (MAT137H5, MAT139H5)/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5)/ MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3)/ MAT237Y1/ (MATB41H3, MATB42H3, MATB43H3)/ MAT237Y5, MAT223H1/ MATA23H3/ MAT223H5/ MAT240H1/ MAT240H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT137Y1",
+        "MAT157Y1",
+        "MAT235Y1",
+        "MAT237Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "MAT336H1": {
+    "notes": "",
+    "name": "MAT336H1",
+    "title": "Elements of Analysis",
+    "prereq_string": "MAT223H1/ MATA23H3/ MAT223H5/ MAT240H1/ MAT240H5, MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3)/ MAT237Y1/ (MATB41H3, MATB42H3, MATB43H3)/ MAT237Y5/ (MAT185H1, MAT195H1/ ESC195H1)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        [
+          "all",
+          "MAT185H1",
+          [
+            "any",
+            "MAT195H1",
+            "ESC195H1"
+          ]
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT257Y1",
+      "MAT337H1"
+    ],
+    "sessions": {
+      "Winter": [
+        65,
+        65,
+        4
+      ]
+    }
+  },
+  "MAT337H1": {
+    "notes": "",
+    "name": "MAT337H1",
+    "title": "Introduction to Real Analysis",
+    "prereq_string": "MAT257Y1/ [MAT224H1/ MATA24H3/ MAT224H5/ MAT247H1/ MAT247H5, MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3/ MATB43H3)/ MAT237Y1/ MAT237Y5, MAT246H1/ MAT157Y1]",
+    "prereq_list": [
+      "any",
+      "MAT257Y1",
+      [
+        "all",
+        [
+          "any",
+          "MAT224H1",
+          "MAT247H1"
+        ],
+        [
+          "any",
+          "MAT235Y1",
+          "MAT237Y1"
+        ],
+        [
+          "any",
+          "MAT246H1",
+          "MAT157Y1"
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT357H1"
+    ],
+    "sessions": {
+      "Fall": [
+        96,
+        110,
+        0
+      ],
+      "Winter": [
+        297,
+        312,
+        0
+      ]
+    }
+  },
+  "MAT344H1": {
+    "notes": "",
+    "name": "MAT344H1",
+    "title": "Introduction to Combinatorics",
+    "prereq_string": "MAT223H1/MATA23H3/MAT223H5/MAT240H1/MAT240H5",
+    "prereq_list": [
+      "any",
+      "MAT223H1",
+      "MAT240H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        397,
+        412,
+        0
+      ],
+      "Winter": [
+        770,
+        822,
+        104
+      ]
+    }
+  },
+  "MAT347Y1": {
+    "notes": "",
+    "name": "MAT347Y1",
+    "title": "Groups, Rings and Fields",
+    "prereq_string": "MAT257Y1/(85% in MAT247H1/MAT247H5)",
+    "prereq_list": [
+      "any",
+      "MAT257Y1",
+      "MAT247H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        80,
+        100,
+        0
+      ]
+    }
+  },
+  "MAT351Y1": {
+    "notes": "",
+    "name": "MAT351Y1",
+    "title": "Partial Differential Equations",
+    "prereq_string": "MAT257Y1/ MAT237Y1 (85%), MAT267H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT257Y1",
+        "MAT237Y1"
+      ],
+      "MAT267H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "APM351Y1"
+    ],
+    "sessions": {
+      "Fall-Winter": [
+        59,
+        60,
+        0
+      ]
+    }
+  },
+  "MAT354H1": {
+    "notes": "",
+    "name": "MAT354H1",
+    "title": "Complex Analysis I",
+    "prereq_string": "MAT257Y1",
+    "prereq_list": [
+      "all",
+      "MAT257Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        82,
+        90,
+        0
+      ]
+    }
+  },
+  "MAT357H1": {
+    "notes": "",
+    "name": "MAT357H1",
+    "title": "Foundations of Real Analysis",
+    "prereq_string": "MAT257Y1",
+    "prereq_list": [
+      "all",
+      "MAT257Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        97,
+        110,
+        0
+      ]
+    }
+  },
+  "MAT363H1": {
+    "notes": "Note: ",
+    "name": "MAT363H1",
+    "title": "Geometry of Curves and Surfaces",
+    "prereq_string": "MAT224H1/ MATB24H3/ MAT224H5/ MAT247H1/ MAT247H5, MAT237Y1/ (MATB41H3, MATB42H3, MATB43H3)/ MAT237Y5/ MAT257Y1 (MAT257Y1 can be taken concurrently). For FASE students, MAT185H1, MAT194H1, MAT195H1, AER210H1.",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT224H1",
+        "MAT247H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        72,
+        72,
+        6
+      ]
+    }
+  },
+  "MAT367H1": {
+    "notes": "",
+    "name": "MAT367H1",
+    "title": "Differential Geometry",
+    "prereq_string": "MAT257Y1/ [MAT224H1/ MAT247H1, MAT237Y1, MAT246H1/ MAT157Y1/ MAT157Y5/ (MAT157H5, MAT159H5)]",
+    "prereq_list": [
+      "any",
+      "MAT257Y1",
+      [
+        "all",
+        [
+          "any",
+          "MAT224H1",
+          "MAT247H1"
+        ],
+        "MAT237Y1",
+        [
+          "any",
+          "MAT246H1",
+          "MAT157Y1"
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        80,
+        80,
+        13
+      ]
+    }
+  },
+  "MAT370H1": {
+    "notes": "",
+    "name": "MAT370H1",
+    "title": "Introduction to Mathematical Probability",
+    "prereq_string": "MAT224H1/ MAT224H5, MAT235Y1/ (MAT232H5, MAT236H5)/ MAT237Y1/ MAT257Y1, MAT246H1",
+    "prereq_list": [
+      "all",
+      "MAT224H1",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      "MAT246H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT377H1"
+    ],
+    "sessions": {
+      "Fall": [
+        31,
+        80,
+        0
+      ]
+    }
+  },
+  "MAT377H1": {
+    "notes": "",
+    "name": "MAT377H1",
+    "title": "Mathematical Probability Theory",
+    "prereq_string": "MAT247H1/MAT247H5, MAT257Y1",
+    "prereq_list": [
+      "all",
+      "MAT247H1",
+      "MAT257Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT370H1",
+      "STA347H1"
+    ],
+    "sessions": {
+      "Fall": [
+        34,
+        36,
+        0
+      ]
+    }
+  },
+  "MAT390H1": {
+    "notes": "Prereq: ('', '', '', '', '-')",
+    "name": "MAT390H1",
+    "title": "History of Mathematics up to 1700",
+    "prereq_string": "1.0 APM/MAT credit at the 200-level",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "HPS309H1",
+      "HPS310Y1",
+      "HPS390H1"
+    ],
+    "sessions": {
+      "Fall": [
+        90,
+        90,
+        0
+      ]
+    }
+  },
+  "MAT391H1": {
+    "notes": "Prereq: ('', '', '', '', ' ')",
+    "name": "MAT391H1",
+    "title": "History of Mathematics after 1700",
+    "prereq_string": "1.0 APM/MAT credit at the 200 level",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "HPS309H1",
+      "HPS310H1",
+      "HPS391H1"
+    ],
+    "sessions": {
+      "Winter": [
+        90,
+        90,
+        41
+      ]
+    }
+  },
+  "MAT395H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT395H1",
+    "title": "Independent Reading in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        2,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT396H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT396H1",
+    "title": "Independent Reading in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ],
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT397Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT397Y1",
+    "title": "Research Project in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        2,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT401H1": {
+    "notes": "",
+    "name": "MAT401H1",
+    "title": "Polynomial Equations and Fields",
+    "prereq_string": "MAT301H1",
+    "prereq_list": [
+      "all",
+      "MAT301H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT347Y1"
+    ],
+    "sessions": {
+      "Winter": [
+        120,
+        140,
+        0
+      ]
+    }
+  },
+  "MAT402H1": {
+    "notes": "",
+    "name": "MAT402H1",
+    "title": "Classical Geometries",
+    "prereq_string": "MAT301H1/MAT347Y1, MAT235Y1/MAT237Y1/MAT257Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT301H1",
+        "MAT347Y1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        63,
+        100,
+        0
+      ]
+    }
+  },
+  "MAT403H1": {
+    "notes": "",
+    "name": "MAT403H1",
+    "title": "Classical Geometries II",
+    "prereq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1, MAT301H1/ MAT347Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT301H1",
+        "MAT347Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        15,
+        90,
+        0
+      ]
+    }
+  },
+  "MAT409H1": {
+    "notes": "",
+    "name": "MAT409H1",
+    "title": "Set Theory",
+    "prereq_string": "MAT357H1",
+    "prereq_list": [
+      "all",
+      "MAT357H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        24,
+        35,
+        0
+      ]
+    }
+  },
+  "MAT415H1": {
+    "notes": "",
+    "name": "MAT415H1",
+    "title": "Algebraic Number Theory",
+    "prereq_string": "MAT347Y1",
+    "prereq_list": [
+      "all",
+      "MAT347Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        12,
+        20,
+        0
+      ]
+    }
+  },
+  "MAT425H1": {
+    "notes": "",
+    "name": "MAT425H1",
+    "title": "Differential Topology",
+    "prereq_string": "MAT257Y1, MAT327H1",
+    "prereq_list": [
+      "all",
+      "MAT257Y1",
+      "MAT327H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        17,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT436H1": {
+    "notes": "Uncleanable string: \"5.0 MAT credits, including MAT224H1/MAT247H1 and MAT237Y1/MAT257Y1\"",
+    "name": "MAT436H1",
+    "title": "Introduction to Linear Operators",
+    "prereq_string": "5.0 MAT credits, including MAT224H1/MAT247H1 and MAT237Y1/MAT257Y1",
+    "prereq_list": [
+      "all",
+      "MAT247H1",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        47,
+        47,
+        0
+      ]
+    }
+  },
+  "MAT437H1": {
+    "notes": "Uncleanable string: \"5.0 MAT credits, including MAT224H1/MAT247H1 and MAT237Y1/MAT257Y1\"",
+    "name": "MAT437H1",
+    "title": "K-Theory and C* Algebras",
+    "prereq_string": "5.0 MAT credits, including MAT224H1/MAT247H1 and MAT237Y1/MAT257Y1",
+    "prereq_list": [
+      "all",
+      "MAT247H1",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        39,
+        39,
+        0
+      ]
+    }
+  },
+  "MAT445H1": {
+    "notes": "",
+    "name": "MAT445H1",
+    "title": "Representation Theory",
+    "prereq_string": "MAT347Y1",
+    "prereq_list": [
+      "all",
+      "MAT347Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        27,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT449H1": {
+    "notes": "",
+    "name": "MAT449H1",
+    "title": "Algebraic Curves",
+    "prereq_string": "MAT347Y1, MAT354H1",
+    "prereq_list": [
+      "all",
+      "MAT347Y1",
+      "MAT354H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        10,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT454H1": {
+    "notes": "",
+    "name": "MAT454H1",
+    "title": "Complex Analysis II",
+    "prereq_string": "MAT354H1",
+    "prereq_list": [
+      "all",
+      "MAT354H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        32,
+        35,
+        0
+      ]
+    }
+  },
+  "MAT457H1": {
+    "notes": "",
+    "name": "MAT457H1",
+    "title": "Advanced Real Analysis I",
+    "prereq_string": "MAT357H1",
+    "prereq_list": [
+      "all",
+      "MAT357H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT457Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        33,
+        47,
+        0
+      ]
+    }
+  },
+  "MAT458H1": {
+    "notes": "",
+    "name": "MAT458H1",
+    "title": "Advanced Real Analysis II",
+    "prereq_string": "MAT457H1",
+    "prereq_list": [
+      "all",
+      "MAT457H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT457Y1"
+    ],
+    "sessions": {
+      "Winter": [
+        28,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT461H1": {
+    "notes": "",
+    "name": "MAT461H1",
+    "title": "Hamiltonian Mechanics",
+    "prereq_string": "MAT244H1/ MAT267H1, MAT337H1/ MAT367H1, APM346H1/ MAT351Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT244H1",
+        "MAT267H1"
+      ],
+      [
+        "any",
+        "MAT337H1",
+        "MAT367H1"
+      ],
+      [
+        "any",
+        "APM346H1",
+        "MAT351Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        13,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT464H1": {
+    "notes": "",
+    "name": "MAT464H1",
+    "title": "Riemannian Geometry",
+    "prereq_string": "MAT367H1",
+    "prereq_list": [
+      "all",
+      "MAT367H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        13,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT475H1": {
+    "notes": "Prereq: ('and ', 'at least ', '', '', '+ ', '', ' in APM/MAT')",
+    "name": "MAT475H1",
+    "title": "Problem Solving Seminar",
+    "prereq_string": "MAT224H1/MAT247H1, MAT235Y1/MAT237Y1/MAT257Y1, and at least 1.0 credit at the 300+ level in APM/MAT",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT224H1",
+        "MAT247H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        45,
+        46,
+        0
+      ]
+    }
+  },
+  "MAT477H1": {
+    "notes": "",
+    "name": "MAT477H1",
+    "title": "Seminar in Mathematics",
+    "prereq_string": "MAT347Y1, MAT354H1, MAT357H1",
+    "prereq_list": [
+      "all",
+      "MAT347Y1",
+      "MAT354H1",
+      "MAT357H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        20,
+        30,
+        0
+      ],
+      "Winter": [
+        21,
+        30,
+        0
+      ]
+    }
+  },
+  "MAT482H1": {
+    "notes": "Note: Possible topic-specific prereqsPrereq: s",
+    "name": "MAT482H1",
+    "title": "Topics in Mathematics",
+    "prereq_string": "6.0 APM/MAT credits at the 100, 200 and 300-level. Possible additional topic-specific prerequisites.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        20,
+        70,
+        0
+      ]
+    }
+  },
+  "MAT495H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT495H1",
+    "title": "Independent Reading in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        10,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT496H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT496H1",
+    "title": "Independent Reading in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        2,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "MAT497Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "MAT497Y1",
+    "title": "Research Project in Mathematics",
+    "prereq_string": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        4,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY100H1": {
+    "notes": "",
+    "name": "PHY100H1",
+    "title": "The Magic of Physics",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "PHY196H1",
+      "PHY197H1",
+      "PHY198H1",
+      "PHY199H1",
+      "PHY202H1",
+      "PHY205H1",
+      "PHY207H1"
+    ],
+    "sessions": {
+      "Fall": [
+        178,
+        196,
+        0
+      ]
+    }
+  },
+  "PHY131H1": {
+    "notes": "",
+    "name": "PHY131H1",
+    "title": "Introduction to Physics I",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "MAT135H1/ MAT137Y1/ MAT157Y1 recommended",
+    "coreq_list": [
+      "any",
+      "MAT135H1",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [
+      "PHY151H1"
+    ],
+    "sessions": {
+      "Fall": [
+        1110,
+        1138,
+        0
+      ],
+      "Winter": [
+        360,
+        384,
+        56
+      ]
+    }
+  },
+  "PHY132H1": {
+    "notes": "",
+    "name": "PHY132H1",
+    "title": "Introduction to Physics II",
+    "prereq_string": "PHY131H1/ PHY151H1",
+    "prereq_list": [
+      "any",
+      "PHY131H1",
+      "PHY151H1"
+    ],
+    "coreq_string": "MAT136H1/ MAT137Y1/ MAT157Y1 recommended",
+    "coreq_list": [
+      "any",
+      "MAT136H1",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [
+      "PHY152H1"
+    ],
+    "sessions": {
+      "Winter": [
+        936,
+        936,
+        37
+      ]
+    }
+  },
+  "PHY151H1": {
+    "notes": "",
+    "name": "PHY151H1",
+    "title": "Foundations of Physics I",
+    "prereq_string": "MCV4U Calculus & Vectors / MCB4U Functions & Calculus; SPH4U Physics",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "completed",
+        "completed"
+      ],
+      "completed"
+    ],
+    "coreq_string": "MAT137Y1/MAT157Y1",
+    "coreq_list": [
+      "any",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [
+      "PHY131H1"
+    ],
+    "sessions": {
+      "Fall": [
+        379,
+        448,
+        0
+      ]
+    }
+  },
+  "PHY152H1": {
+    "notes": "",
+    "name": "PHY152H1",
+    "title": "Foundations of Physics II",
+    "prereq_string": "PHY131H1/PHY151H1/PHY180H1",
+    "prereq_list": [
+      "any",
+      "PHY131H1",
+      "PHY151H1",
+      "PHY180H1"
+    ],
+    "coreq_string": "MAT137Y1/MAT157Y1",
+    "coreq_list": [
+      "any",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "exclusions_list": [
+      "PHY132H1"
+    ],
+    "sessions": {
+      "Winter": [
+        397,
+        418,
+        3
+      ]
+    }
+  },
+  "PHY196H1": {
+    "notes": "",
+    "name": "PHY196H1",
+    "title": "Emergence in Nature",
+    "prereq_string": "No prior experience with physical science will be required, but familiarity with Grade 10 mathematics will be assumed.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        30,
+        1
+      ]
+    }
+  },
+  "PHY197H1": {
+    "notes": "",
+    "name": "PHY197H1",
+    "title": "Modern Physics for the Curious",
+    "prereq_string": "No prior experience with physical science will be required, but familiarity with Grade 10 mathematics will be assumed. ",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "PHY198H1": {
+    "notes": "",
+    "name": "PHY198H1",
+    "title": "Physics at the Cutting Edge",
+    "prereq_string": "PHY151H1",
+    "prereq_list": [
+      "all",
+      "PHY151H1"
+    ],
+    "coreq_string": "PHY152H1, MAT137Y1/MAT157Y1",
+    "coreq_list": [
+      "all",
+      "PHY152H1",
+      [
+        "any",
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        28,
+        30,
+        0
+      ]
+    }
+  },
+  "PHY199H1": {
+    "notes": "",
+    "name": "PHY199H1",
+    "title": "Dark Matter and Dark Energy are the New Black",
+    "prereq_string": "No prior experience with physical science will be required, but familiarity with Grade 10 mathematics will be assumed.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        30,
+        6
+      ]
+    }
+  },
+  "PHY205H1": {
+    "notes": "",
+    "name": "PHY205H1",
+    "title": "The Physics of Everyday Life",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "PHY196H1",
+      "PHY197H1",
+      "PHY198H1",
+      "PHY199H1",
+      "PHY100H1",
+      "PHY202H1",
+      "PHY207H1"
+    ],
+    "sessions": {
+      "Winter": [
+        191,
+        392,
+        0
+      ]
+    }
+  },
+  "PHY207H1": {
+    "notes": "",
+    "name": "PHY207H1",
+    "title": "The Physics of Music",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "PHY196H1",
+      "PHY197H1",
+      "PHY198H1",
+      "PHY199H1",
+      "PHY100H1",
+      "PHY202H1",
+      "PHY205H1"
+    ],
+    "sessions": {
+      "Winter": [
+        300,
+        300,
+        29
+      ]
+    }
+  },
+  "PHY224H1": {
+    "notes": "",
+    "name": "PHY224H1",
+    "title": "Practical Physics I",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "PHY231H1/ PHY250H1/ PHY252H1/ PHY254H1/ PHY256H1",
+    "coreq_list": [
+      "any",
+      "PHY231H1",
+      "PHY250H1",
+      "PHY252H1",
+      "PHY254H1",
+      "PHY256H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        225,
+        252,
+        0
+      ],
+      "Winter": [
+        80,
+        80,
+        17
+      ]
+    }
+  },
+  "PHY231H1": {
+    "notes": "",
+    "name": "PHY231H1",
+    "title": "Physics of Living Systems",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        32,
+        92,
+        0
+      ]
+    }
+  },
+  "PHY250H1": {
+    "notes": "",
+    "name": "PHY250H1",
+    "title": "Electricity and Magnetism",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "any",
+      "MAT235Y1",
+      "MAT237Y1",
+      "MAT257Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        313,
+        327,
+        3
+      ]
+    }
+  },
+  "PHY252H1": {
+    "notes": "",
+    "name": "PHY252H1",
+    "title": "Thermal Physics",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "any",
+      "MAT235Y1",
+      "MAT237Y1",
+      "MAT257Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        290,
+        304,
+        0
+      ]
+    }
+  },
+  "PHY254H1": {
+    "notes": "",
+    "name": "PHY254H1",
+    "title": "Classical Mechanics",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "any",
+      "MAT235Y1",
+      "MAT237Y1",
+      "MAT257Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        271,
+        292,
+        0
+      ]
+    }
+  },
+  "PHY256H1": {
+    "notes": "",
+    "name": "PHY256H1",
+    "title": "Introduction to Quantum Physics",
+    "prereq_string": "PHY131H1/ PHY151H1, PHY132H1/ PHY152H1, (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY131H1",
+        "PHY151H1"
+      ],
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "MAT235Y1/ MAT237Y1/ MAT257Y1, (MAT223H1/ MAT240H1 recommended)",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        252,
+        274,
+        0
+      ]
+    }
+  },
+  "PHY299Y1": {
+    "notes": "",
+    "name": "PHY299Y1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        19998,
+        0
+      ]
+    }
+  },
+  "PHY324H1": {
+    "notes": "",
+    "name": "PHY324H1",
+    "title": "Practical Physics II",
+    "prereq_string": "PHY224H1, PHY231H1/ PHY250H1/ PHY252H1/ PHY254H1/ PHY256H1",
+    "prereq_list": [
+      "all",
+      "PHY224H1",
+      [
+        "any",
+        "PHY231H1",
+        "PHY250H1",
+        "PHY252H1",
+        "PHY254H1",
+        "PHY256H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        69,
+        80,
+        0
+      ],
+      "Winter": [
+        143,
+        160,
+        0
+      ]
+    }
+  },
+  "PHY331H1": {
+    "notes": "",
+    "name": "PHY331H1",
+    "title": "Introduction to Biological Physics",
+    "prereq_string": "PHY252H1/ CHM222H1, PHY231H1/ PHY250H1/ PHY254H1/ PHY256H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY252H1",
+        "CHM222H1"
+      ],
+      [
+        "any",
+        "PHY231H1",
+        "PHY250H1",
+        "PHY254H1",
+        "PHY256H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        26,
+        30,
+        0
+      ]
+    }
+  },
+  "PHY350H1": {
+    "notes": "",
+    "name": "PHY350H1",
+    "title": "Electromagnetic Theory",
+    "prereq_string": "MAT223H1/ MAT240H1, MAT244H1/ MAT267H1, MAT235Y1/ MAT237Y1/ MAT257Y1, PHY250H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT244H1",
+        "MAT267H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      "PHY250H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        179,
+        193,
+        0
+      ]
+    }
+  },
+  "PHY354H1": {
+    "notes": "",
+    "name": "PHY354H1",
+    "title": "Advanced Classical Mechanics",
+    "prereq_string": "MAT223H1/ MAT240H1, MAT244H1/ MAT267H1, MAT235Y1/ MAT237Y1/ MAT257Y1, PHY254H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT244H1",
+        "MAT267H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      "PHY254H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        240,
+        240,
+        7
+      ]
+    }
+  },
+  "PHY356H1": {
+    "notes": "",
+    "name": "PHY356H1",
+    "title": "Quantum Mechanics I",
+    "prereq_string": "MAT223H1/ MAT240H1, MAT235Y1/ MAT237Y1/ MAT257Y1, PHY250H1, PHY256H1/ (CHM222H1, CHM223H1), (PHY256H1 recommended)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      "PHY250H1",
+      [
+        "any",
+        "PHY256H1",
+        [
+          "all",
+          "CHM222H1",
+          "CHM223H1"
+        ]
+      ],
+      "PHY256H1"
+    ],
+    "coreq_string": "MAT244H1/ MAT267H1",
+    "coreq_list": [
+      "any",
+      "MAT244H1",
+      "MAT267H1"
+    ],
+    "exclusions_list": [
+      "CHM326H1"
+    ],
+    "sessions": {
+      "Fall": [
+        225,
+        231,
+        0
+      ]
+    }
+  },
+  "PHY357H1": {
+    "notes": "",
+    "name": "PHY357H1",
+    "title": "Nuclear and Particle Physics",
+    "prereq_string": "PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        67,
+        85,
+        0
+      ]
+    }
+  },
+  "PHY358H1": {
+    "notes": "",
+    "name": "PHY358H1",
+    "title": "Quantum Materials: from Atoms to Crystals",
+    "prereq_string": "PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        44,
+        85,
+        0
+      ]
+    }
+  },
+  "PHY365H1": {
+    "notes": "Note:  can contact department for prereq exemptions(.)",
+    "name": "PHY365H1",
+    "title": "Quantum Information",
+    "prereq_string": "PHY256H1/ PHY294H1/ CHM223H1/ ECE330H1, MAT223H1/ MAT240H1 (Students who do not meet these prerequisites are encouraged to contact the Department.)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY256H1",
+        "PHY294H1",
+        "CHM223H1",
+        "ECE330H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        53,
+        85,
+        0
+      ]
+    }
+  },
+  "PHY371Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY371Y1",
+    "title": "Supervised Study in Physics",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        2,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY372H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY372H1",
+    "title": "Supervised Study in Physics",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        1,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY378H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY378H1",
+    "title": "Undergraduate Research Project",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        4,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY379Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY379Y1",
+    "title": "Undergraduate Research Project",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        14,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY385H1": {
+    "notes": "",
+    "name": "PHY385H1",
+    "title": "Introductory Optics",
+    "prereq_string": "PHY250H1, PHY224H1, MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "prereq_list": [
+      "all",
+      "PHY250H1",
+      "PHY224H1",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ECE318H1"
+    ],
+    "sessions": {
+      "Winter": [
+        50,
+        50,
+        6
+      ]
+    }
+  },
+  "PHY392H1": {
+    "notes": "",
+    "name": "PHY392H1",
+    "title": "Physics of Climate",
+    "prereq_string": "PHY250H1/PHY252H1, MAT235Y1/MAT237Y1/MAT257Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY250H1",
+        "PHY252H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        39,
+        80,
+        0
+      ]
+    }
+  },
+  "PHY405H1": {
+    "notes": "Uncleanable string: \"PHY224H1, PHY250H1. Note that PHY405H1 may be taken in third or fourth year.\"",
+    "name": "PHY405H1",
+    "title": "Electronics Lab",
+    "prereq_string": "PHY224H1, PHY250H1. Note that PHY405H1 may be taken in third or fourth year.",
+    "prereq_list": [
+      "all",
+      "PHY224H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        48,
+        48,
+        19
+      ]
+    }
+  },
+  "PHY407H1": {
+    "notes": "Uncleanable string: \"Any 300/ 400-level lecture course in Physics (PHY/ JPE)\"",
+    "name": "PHY407H1",
+    "title": "Computational Physics",
+    "prereq_string": "PHY224H1, PHY250H1/ PHY252H1/ PHY254H1/ PHY256H1, MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "prereq_list": [
+      "all",
+      "PHY224H1",
+      [
+        "any",
+        "PHY250H1",
+        "PHY252H1",
+        "PHY254H1",
+        "PHY256H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "Any 300/ 400-level lecture course in Physics (PHY/ JPE)",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        117,
+        119,
+        0
+      ]
+    }
+  },
+  "PHY408H1": {
+    "notes": "Uncleanable string: \"Any 300/ 400-level lecture course in Physics (PHY/ JPE)\"",
+    "name": "PHY408H1",
+    "title": "Time Series Analysis",
+    "prereq_string": "PHY224H1, PHY250H1/ PHY252H1/ PHY254H1/ PHY256H1, MAT235Y1/ MAT237Y1/ MAT257Y1.",
+    "prereq_list": [
+      "all",
+      "PHY224H1",
+      [
+        "any",
+        "PHY250H1",
+        "PHY252H1",
+        "PHY254H1",
+        "PHY256H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "Any 300/ 400-level lecture course in Physics (PHY/ JPE)",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        92,
+        92,
+        21
+      ]
+    }
+  },
+  "PHY424H1": {
+    "notes": "",
+    "name": "PHY424H1",
+    "title": "Advanced Physics Laboratory",
+    "prereq_string": "PHY250H1, PHY256H1, PHY324H1",
+    "prereq_list": [
+      "all",
+      "PHY250H1",
+      "PHY256H1",
+      "PHY324H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        41,
+        44,
+        0
+      ],
+      "Winter": [
+        40,
+        40,
+        6
+      ]
+    }
+  },
+  "PHY426H1": {
+    "notes": "",
+    "name": "PHY426H1",
+    "title": "Advanced Practical Physics I",
+    "prereq_string": "PHY424H1",
+    "prereq_list": [
+      "all",
+      "PHY424H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        2,
+        40,
+        0
+      ],
+      "Winter": [
+        5,
+        40,
+        0
+      ]
+    }
+  },
+  "PHY428H1": {
+    "notes": "",
+    "name": "PHY428H1",
+    "title": "Advanced Practical Physics II",
+    "prereq_string": "PHY426H1",
+    "prereq_list": [
+      "all",
+      "PHY426H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        37,
+        0
+      ],
+      "Winter": [
+        0,
+        37,
+        0
+      ]
+    }
+  },
+  "PHY429H1": {
+    "notes": "",
+    "name": "PHY429H1",
+    "title": "Advanced Practical Physics III",
+    "prereq_string": "PHY428H1",
+    "prereq_list": [
+      "all",
+      "PHY428H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        40,
+        0
+      ],
+      "Winter": [
+        0,
+        35,
+        0
+      ]
+    }
+  },
+  "PHY431H1": {
+    "notes": "",
+    "name": "PHY431H1",
+    "title": "Topics in Biological Physics",
+    "prereq_string": "PHY250H1, PHY252H1/ CHM222H1, PHY331H1",
+    "prereq_list": [
+      "all",
+      "PHY250H1",
+      [
+        "any",
+        "PHY252H1",
+        "CHM222H1"
+      ],
+      "PHY331H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        10,
+        28,
+        0
+      ]
+    }
+  },
+  "PHY450H1": {
+    "notes": "",
+    "name": "PHY450H1",
+    "title": "Relativistic Electrodynamics",
+    "prereq_string": "PHY350H1, PHY354H1",
+    "prereq_list": [
+      "all",
+      "PHY350H1",
+      "PHY354H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        71,
+        87,
+        0
+      ]
+    }
+  },
+  "PHY452H1": {
+    "notes": "",
+    "name": "PHY452H1",
+    "title": "Statistical Mechanics",
+    "prereq_string": "PHY252H1, PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY252H1",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        59,
+        84,
+        0
+      ]
+    }
+  },
+  "PHY454H1": {
+    "notes": "",
+    "name": "PHY454H1",
+    "title": "Continuum Mechanics",
+    "prereq_string": "PHY254H1, MAT235Y1/MAT237Y1/MAT257Y1, APM346H1/APM351Y1",
+    "prereq_list": [
+      "all",
+      "PHY254H1",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "APM346H1",
+        "APM351Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        36,
+        90,
+        0
+      ]
+    }
+  },
+  "PHY456H1": {
+    "notes": "",
+    "name": "PHY456H1",
+    "title": "Quantum Mechanics II",
+    "prereq_string": "PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        83,
+        90,
+        0
+      ]
+    }
+  },
+  "PHY460H1": {
+    "notes": "",
+    "name": "PHY460H1",
+    "title": "Nonlinear Physics",
+    "prereq_string": "PHY354H1",
+    "prereq_list": [
+      "all",
+      "PHY354H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        34,
+        88,
+        0
+      ]
+    }
+  },
+  "PHY471Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY471Y1",
+    "title": "Supervised Study in Physics",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies).",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY472H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY472H1",
+    "title": "Supervised Study in Physics",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies).",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        3,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY478H1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY478H1",
+    "title": "Undergraduate Research Project",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        10,
+        9999,
+        0
+      ],
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY479Y1": {
+    "notes": "Note: Need undergrad chair permission",
+    "name": "PHY479Y1",
+    "title": "Undergraduate Research Project",
+    "prereq_string": "Consult the Physics Associate Chair (Undergraduate Studies)",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        19,
+        9999,
+        0
+      ]
+    }
+  },
+  "PHY483H1": {
+    "notes": "",
+    "name": "PHY483H1",
+    "title": "Relativity Theory I",
+    "prereq_string": "PHY354H1",
+    "prereq_list": [
+      "all",
+      "PHY354H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        58,
+        81,
+        0
+      ]
+    }
+  },
+  "PHY484H1": {
+    "notes": "",
+    "name": "PHY484H1",
+    "title": "Relativity Theory II",
+    "prereq_string": "PHY483H1",
+    "prereq_list": [
+      "all",
+      "PHY483H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        33,
+        34,
+        4
+      ]
+    }
+  },
+  "PHY485H1": {
+    "notes": "",
+    "name": "PHY485H1",
+    "title": "Laser Physics",
+    "prereq_string": "PHY350H1, PHY356H1, PHY385H1/ ECE318H1",
+    "prereq_list": [
+      "all",
+      "PHY350H1",
+      "PHY356H1",
+      [
+        "any",
+        "PHY385H1",
+        "ECE318H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        9,
+        20,
+        0
+      ]
+    }
+  },
+  "PHY487H1": {
+    "notes": "",
+    "name": "PHY487H1",
+    "title": "Condensed Matter Physics",
+    "prereq_string": "PHY250H1, PHY252H1, PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY250H1",
+      "PHY252H1",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        31,
+        89,
+        0
+      ]
+    }
+  },
+  "PHY489H1": {
+    "notes": "",
+    "name": "PHY489H1",
+    "title": "Introduction to High Energy Physics",
+    "prereq_string": "PHY356H1",
+    "prereq_list": [
+      "all",
+      "PHY356H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        37,
+        60,
+        0
+      ]
+    }
+  },
+  "PHY491H1": {
+    "notes": "",
+    "name": "PHY491H1",
+    "title": "Current Interpretations of Quantum Mechanics",
+    "prereq_string": "PHY456H1",
+    "prereq_list": [
+      "all",
+      "PHY456H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        12,
+        50,
+        0
+      ]
+    }
+  },
+  "PHY492H1": {
+    "notes": "",
+    "name": "PHY492H1",
+    "title": "Advanced Atmospheric Physics",
+    "prereq_string": "PHY224H1, PHY250H1/ PHY252H1/ PHY254H1, MAT235Y1/ MAT237Y1/ MAT257Y1",
+    "prereq_list": [
+      "all",
+      "PHY224H1",
+      [
+        "any",
+        "PHY250H1",
+        "PHY252H1",
+        "PHY254H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        22,
+        60,
+        0
+      ]
+    }
+  },
+  "STA130H1": {
+    "notes": "*Note: the corequisite may be completed either concurrently or in advance",
+    "name": "STA130H1",
+    "title": "An Introduction to Statistical Reasoning and Data Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "MAT135H1/ MAT136H1/ MAT137Y1/ MAT157Y1, (CSC108H1/ equivalent programming experience)/ CSC110Y1/ CSC148H1 *Note: the corequisite may be completed either concurrently or in advance.",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        [
+          "any",
+          "CSC108H1",
+          "completed"
+        ],
+        "CSC110Y1",
+        "CSC148H1"
+      ]
+    ],
+    "exclusions_list": [
+      "STA220H1",
+      "STA255H1",
+      "STA238H1",
+      "STA248H1",
+      "STA261H1",
+      "ECO220Y1",
+      "ECO227Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        531,
+        576,
+        0
+      ],
+      "Winter": [
+        1126,
+        1152,
+        234
+      ]
+    }
+  },
+  "STA197H1": {
+    "notes": "",
+    "name": "STA197H1",
+    "title": "Thinking Better with Statistics",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        24,
+        25,
+        0
+      ]
+    }
+  },
+  "STA198H1": {
+    "notes": "",
+    "name": "STA198H1",
+    "title": "Probabilities Everywhere",
+    "prereq_string": "Grade 12 Mathematics",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        25,
+        25,
+        8
+      ]
+    }
+  },
+  "STA199H1": {
+    "notes": "",
+    "name": "STA199H1",
+    "title": "Statistical Evidence: Truth or Myth?",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        25,
+        25,
+        4
+      ]
+    }
+  },
+  "STA201H1": {
+    "notes": "",
+    "name": "STA201H1",
+    "title": "Why Numbers Matter",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT133Y1",
+      "MAT135H1",
+      "MAT136H1",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "STA220H1": {
+    "notes": "",
+    "name": "STA220H1",
+    "title": "The Practice of Statistics I",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ECO220Y1",
+      "ECO227Y1",
+      "GGR270H1",
+      "IRW220H1",
+      "PSY201H1",
+      "SOC202H1",
+      "STA261H1",
+      "STA238H1",
+      "STA248H1",
+      "STA288H1",
+      "EEB225H1"
+    ],
+    "sessions": {
+      "Fall": [
+        715,
+        744,
+        0
+      ],
+      "Winter": [
+        230,
+        230,
+        35
+      ]
+    }
+  },
+  "STA221H1": {
+    "notes": "",
+    "name": "STA221H1",
+    "title": "The Practice of Statistics II",
+    "prereq_string": "STA220H1/ STA288H1/ PSY201H1/ GGR270H1/ EEB225H1/ STAB22H3/ STA220H5",
+    "prereq_list": [
+      "any",
+      "STA220H1",
+      "STA288H1",
+      "PSY201H1",
+      "GGR270H1",
+      "EEB225H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ECO220Y1",
+      "ECO227Y1",
+      "GGR270Y1",
+      "PSY202H1",
+      "SOC202H1",
+      "SOC252H1",
+      "STA261H1",
+      "STA248H1"
+    ],
+    "sessions": {
+      "Winter": [
+        139,
+        150,
+        0
+      ]
+    }
+  },
+  "STA237H1": {
+    "notes": "*Note: the corequisite may be completed either concurrently or in advance",
+    "name": "STA237H1",
+    "title": "Probability, Statistics and Data Analysis I",
+    "prereq_string": "(MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1/ (MATA30H3, MATA36H3)/ (MATA31H3, MATA37H3)/ (MAT135H5, MAT136H5)/ MAT137Y5/ MAT157Y5",
+    "prereq_list": [
+      "any",
+      [
+        "all",
+        "MAT135H1",
+        "MAT136H1"
+      ],
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "coreq_string": "(CSC108H1/ equivalent programming experience)/ CSC110Y1/ CSC148H1 *Note: the corequisite may be completed either concurrently or in advance.",
+    "coreq_list": [
+      "any",
+      [
+        "any",
+        "CSC108H1",
+        "completed"
+      ],
+      "CSC110Y1",
+      "CSC148H1"
+    ],
+    "exclusions_list": [
+      "STA247H1",
+      "STA255H1",
+      "STA257H1",
+      "ECO227Y1",
+      "MAT370H1"
+    ],
+    "sessions": {
+      "Fall": [
+        1104,
+        1200,
+        0
+      ]
+    }
+  },
+  "STA238H1": {
+    "notes": "*Note: the corequisite may be completed either concurrently or in advance",
+    "name": "STA238H1",
+    "title": "Probability, Statistics and Data Analysis II",
+    "prereq_string": "STA237H1/ STA247H1/ STA257H1/ STAB52H3/ STA256H5",
+    "prereq_list": [
+      "any",
+      "STA237H1",
+      "STA247H1",
+      "STA257H1"
+    ],
+    "coreq_string": "CSC108H1/ CSC110Y1/ CSC148H1 *Note: the corequisite may be completed either concurrently or in advance.",
+    "coreq_list": [
+      "any",
+      "CSC108H1",
+      "CSC110Y1",
+      "CSC148H1"
+    ],
+    "exclusions_list": [
+      "ECO220Y1",
+      "ECO227Y1",
+      "GGR270H1",
+      "PSY201H1",
+      "SOC300H1",
+      "SOC202H1",
+      "SOC252H1",
+      "STA220H1",
+      "STA221H1",
+      "STA255H1",
+      "STA248H1",
+      "STA261H1",
+      "STA288H1",
+      "EEB225H1"
+    ],
+    "sessions": {
+      "Winter": [
+        893,
+        960,
+        61
+      ]
+    }
+  },
+  "STA255H1": {
+    "notes": "note: ECO220Y1 may be taken as a co-requisite",
+    "name": "STA255H1",
+    "title": "Statistical Theory",
+    "prereq_string": "STA220H1/ STA221H1/ STA288H1/ ECO220Y1 (note: ECO220Y1 may be taken as a co-requisite)/ STAB22H3/ STA220H5/ ECO220Y5; MAT133Y1 (70%)/ (MAT135H1, MAT136H1)/ MAT137Y1/ MAT157Y1/ (MATA32H3 (70%), MATA33H3 (70%))/ (MATA29H3 (70%), MATA35H3 (70%))/ (MATA30H3, MATA36H3)/ (MATA31H3, MATA37H3)/ MAT133Y5 (70%)/ (MAT132H5 (70%), MAT134H5 (70%))/ (MAT135H5,MAT136H5)/ MAT137Y5/ MAT157Y5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA220H1",
+        "STA221H1",
+        "STA288H1",
+        "ECO220Y1"
+      ],
+      [
+        "any",
+        "MAT133Y1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ECO227Y1",
+      "STA237H1",
+      "STA238H1",
+      "STA257H1",
+      "STA261H1",
+      "STA247H1",
+      "STA248H1"
+    ],
+    "sessions": {
+      "Winter": [
+        307,
+        308,
+        24
+      ]
+    }
+  },
+  "STA257H1": {
+    "notes": "",
+    "name": "STA257H1",
+    "title": "Probability and Statistics I",
+    "prereq_string": "MAT137Y1/ MAT157Y1/ (MATA31H3, MATA37H3)/ MAT137Y5/ MAT157Y5",
+    "prereq_list": [
+      "any",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "coreq_string": "MAT237Y1/ MAT257Y1/ MAT257Y5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "exclusions_list": [
+      "ECO227Y1",
+      "STA237H1",
+      "STA247H1",
+      "MAT370H1",
+      "MAT377H1"
+    ],
+    "sessions": {
+      "Fall": [
+        335,
+        500,
+        0
+      ]
+    }
+  },
+  "STA261H1": {
+    "notes": "",
+    "name": "STA261H1",
+    "title": "Probability and Statistics II",
+    "prereq_string": "STA257H1/ STAB52H3/ STA256H5",
+    "prereq_list": [
+      "all",
+      "STA257H1"
+    ],
+    "coreq_string": "MAT237Y1/ MAT257Y1/ MAT257Y5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "exclusions_list": [
+      "ECO227Y1",
+      "STA238H1",
+      "STA248H1"
+    ],
+    "sessions": {
+      "Winter": [
+        329,
+        390,
+        0
+      ]
+    }
+  },
+  "STA288H1": {
+    "notes": "",
+    "name": "STA288H1",
+    "title": "Statistics and Scientific Inquiry in the Life Sciences",
+    "prereq_string": "BIO230H1/BIO255H1",
+    "prereq_list": [
+      "any",
+      "BIO230H1",
+      "BIO255H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "STA220H1",
+      "PSY201H1",
+      "GGR270H1",
+      "ECO220Y1",
+      "ECO227Y1",
+      "SOC202H1",
+      "EEB225H1",
+      "HMB325H1",
+      "STA238H1",
+      "STA248H1",
+      "STA261H1",
+      "PCL376H1"
+    ],
+    "sessions": {
+      "Winter": [
+        258,
+        360,
+        0
+      ]
+    }
+  },
+  "STA299Y1": {
+    "notes": "",
+    "name": "STA299Y1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        6,
+        9999,
+        0
+      ]
+    }
+  },
+  "STA302H1": {
+    "notes": "",
+    "name": "STA302H1",
+    "title": "Methods of Data Analysis I",
+    "prereq_string": "STA238H1/ STA248H1/ STA255H1/ STA261H1/ ECO227Y1/ STAB57H3/ STA258H5/ STA260H5/ ECO227Y5; CSC108H1/ CSC110Y1/ CSC120H1/ CSC148H1/ CSCA08H3/ CSCA20H3/ CSCA48H3/ CSC108H5/ CSC148H5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA238H1",
+        "STA248H1",
+        "STA255H1",
+        "STA261H1",
+        "ECO227Y1"
+      ],
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        846,
+        913,
+        0
+      ],
+      "Winter": [
+        243,
+        300,
+        0
+      ]
+    }
+  },
+  "STA303H1": {
+    "notes": "",
+    "name": "STA303H1",
+    "title": "Methods of Data Analysis II",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5",
+    "prereq_list": [
+      "all",
+      "STA302H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        649,
+        750,
+        1
+      ]
+    }
+  },
+  "STA304H1": {
+    "notes": "",
+    "name": "STA304H1",
+    "title": "Surveys, Sampling and Observational Data",
+    "prereq_string": "ECO227Y1/ STA255H1/ STA261H1/ STA248H1/ STA238H1/ STAB57H3/ STA258H5/ STA260H5/ ECO227Y5",
+    "prereq_list": [
+      "any",
+      "ECO227Y1",
+      "STA255H1",
+      "STA261H1",
+      "STA248H1",
+      "STA238H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        236,
+        275,
+        0
+      ],
+      "Winter": [
+        553,
+        553,
+        79
+      ]
+    }
+  },
+  "STA305H1": {
+    "notes": "",
+    "name": "STA305H1",
+    "title": "Design and Analysis of Experiments",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5",
+    "prereq_list": [
+      "all",
+      "STA302H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        256,
+        450,
+        0
+      ]
+    }
+  },
+  "STA313H1": {
+    "notes": "",
+    "name": "STA313H1",
+    "title": "Data Visualization",
+    "prereq_string": "CSC108H1/ CSC110Y1/ CSC120H1/ CSC148H1; STA238H1/ STA248H1/ STA261H1/ ECO227Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "STA238H1",
+        "STA248H1",
+        "STA261H1",
+        "ECO227Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        240,
+        240,
+        0
+      ]
+    }
+  },
+  "STA314H1": {
+    "notes": "",
+    "name": "STA314H1",
+    "title": "Statistical Methods for Machine Learning I",
+    "prereq_string": "STA302H1/ STA302H5/ STAC67H3; CSC108H1/ CSC110Y1/ CSC120H1/ CSC148H1/ CSCA08H3/ CSCA48H3/ CSCA20H3/ CSC108H5/ CSC148H5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5; MAT235Y1/ MAT237Y1/ MAT257Y1/ (MATB41H3, MATB42H3)/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5)",
+    "prereq_list": [
+      "all",
+      "STA302H1",
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC411H1",
+      "CSC311H1"
+    ],
+    "sessions": {
+      "Fall": [
+        405,
+        428,
+        0
+      ]
+    }
+  },
+  "STA347H1": {
+    "notes": "('are ', '')",
+    "name": "STA347H1",
+    "title": "Probability",
+    "prereq_string": "STA247H1(70%)/ STA255H1(70%)/ STA237H1(70%)/ STA257H1/ ECO227Y1/ STAB52H3/ STA256H5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5; MAT235Y1/ MAT237Y1/ MAT257Y1/ (MATB41H3, MATB42H3)/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5) (Note: STA257H1, MAT223H1/MAT240H1, MAT237Y1/MAT257Y1 are very strongly recommended)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA247H1",
+        "STA255H1",
+        "STA237H1",
+        "STA257H1",
+        "ECO227Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "MAT370H1",
+      "MAT377H1"
+    ],
+    "sessions": {
+      "Fall": [
+        206,
+        342,
+        0
+      ],
+      "Winter": [
+        216,
+        216,
+        5
+      ]
+    }
+  },
+  "STA355H1": {
+    "notes": "",
+    "name": "STA355H1",
+    "title": "Theory of Statistical Practice",
+    "prereq_string": "STA255H1 (73%)/ STA248H1 (73%)/ STA238H1 (73%)/ STA261H1 (60%)/ ECO227Y1 (60%)/ STAB57H3 (60%)/ STA260H5 (60%)/ ECO227Y5 (60%); MAT235Y1/ MAT237Y1/ MAT257Y1/ (MATB41H3, MATB42H3)/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5); MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA255H1",
+        "STA248H1",
+        "STA238H1",
+        "STA261H1",
+        "ECO227Y1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        146,
+        270,
+        0
+      ]
+    }
+  },
+  "STA365H1": {
+    "notes": "",
+    "name": "STA365H1",
+    "title": "Applied Bayesian Statistics",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5",
+    "prereq_list": [
+      "all",
+      "STA302H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        92,
+        150,
+        0
+      ]
+    }
+  },
+  "STA399Y1": {
+    "notes": "",
+    "name": "STA399Y1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "STA410H1": {
+    "notes": "",
+    "name": "STA410H1",
+    "title": "Statistical Computation",
+    "prereq_string": "STA302H1/ STAC67H3/ STA302H5; CSC110Y1/ CSC148H1/ CSCA48H3/ CSC148H5; MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "prereq_list": [
+      "all",
+      "STA302H1",
+      [
+        "any",
+        "CSC110Y1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        73,
+        109,
+        0
+      ]
+    }
+  },
+  "STA414H1": {
+    "notes": "",
+    "name": "STA414H1",
+    "title": "Statistical Methods for Machine Learning II",
+    "prereq_string": "STA314H1/ CSC411H1/ CSC311H1/ (STA314H5, STA315H5)/ CSCC11H3/ CSC411H5; STA302H1/ STAC67H3/ STA302H5; CSC108H1/ CSC110Y1/ CSC120H1/ CSC148H1/ CSCA08H3/ CSCA48H3/ CSCA20H3/ CSC108H5/ CSC148H5; MAT235Y1/ MAT237Y1/ MAT257Y1/ (MATB41H3, MATB42H3)/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5); MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA314H1",
+        "CSC411H1",
+        "CSC311H1"
+      ],
+      "STA302H1",
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC412H1"
+    ],
+    "sessions": {
+      "Winter": [
+        230,
+        230,
+        51
+      ]
+    }
+  },
+  "STA437H1": {
+    "notes": "",
+    "name": "STA437H1",
+    "title": "Methods for Multivariate Data",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5",
+    "prereq_list": [
+      "all",
+      "STA302H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        187,
+        250,
+        0
+      ],
+      "Winter": [
+        153,
+        400,
+        0
+      ]
+    }
+  },
+  "STA442H1": {
+    "notes": "",
+    "name": "STA442H1",
+    "title": "Methods of Applied Statistics",
+    "prereq_string": "STA303H1/(STAC67H3, STAC51H3); CSC108H1/CSC110Y1/CSC120H1/CSC148H1/CSCA08H3/CSCA48H3/CSCA20H3/CSC108H5/CSC148H5",
+    "prereq_list": [
+      "all",
+      "STA303H1",
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        58,
+        95,
+        0
+      ]
+    }
+  },
+  "STA447H1": {
+    "notes": "",
+    "name": "STA447H1",
+    "title": "Stochastic Processes",
+    "prereq_string": "STA347H1/MAT377H1/STAC62H3",
+    "prereq_list": [
+      "any",
+      "STA347H1",
+      "MAT377H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        96,
+        133,
+        0
+      ]
+    }
+  },
+  "STA450H1": {
+    "notes": "Prereq: 9.0 credits",
+    "name": "STA450H1",
+    "title": "Topics in Statistics",
+    "prereq_string": "9.0 credits",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        40,
+        0
+      ]
+    }
+  },
+  "STA452H1": {
+    "notes": "('', '.')",
+    "name": "STA452H1",
+    "title": "Mathematical Statistics I",
+    "prereq_string": "MAT223H1/ MAT224H1/ MAT240H1/ MATA22H3/ MATA23H3/ MAT223H5/ MAT240H5/ MATB24H3/ MAT224H5; MAT235Y1/ MAT237Y1/ MAT257Y1/ (MATB41H3, MATB42H3)/ (MAT232H5, MAT236H5)/ (MAT233H5, MAT236H5); (STA257H1, STA355H1)/ STA347H1. (Note: MAT237Y1/ MAT257Y1; (MAT223H1, MAT224H1)/ MAT240H1 very strongly recommended.)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ],
+      [
+        "any",
+        [
+          "all",
+          "STA257H1",
+          "STA355H1"
+        ],
+        "STA347H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        38,
+        50,
+        0
+      ]
+    }
+  },
+  "STA453H1": {
+    "notes": "",
+    "name": "STA453H1",
+    "title": "Mathematical Statistics II",
+    "prereq_string": "STA452H1",
+    "prereq_list": [
+      "all",
+      "STA452H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        22,
+        40,
+        0
+      ]
+    }
+  },
+  "STA457H1": {
+    "notes": "",
+    "name": "STA457H1",
+    "title": "Time Series Analysis",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5; MAT235Y1/MAT237Y1/MAT257Y1/(MATB41H3, MATB42H3)/(MAT232H5, MAT236H5)/(MAT233H5, MAT236H5)",
+    "prereq_list": [
+      "all",
+      "STA302H1",
+      [
+        "any",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        211,
+        226,
+        0
+      ],
+      "Winter": [
+        292,
+        405,
+        0
+      ]
+    }
+  },
+  "STA465H1": {
+    "notes": "",
+    "name": "STA465H1",
+    "title": "Spatial Data Analysis",
+    "prereq_string": "STA302H1/STAC67H3/STA302H5, STA303H1",
+    "prereq_list": [
+      "all",
+      "STA302H1",
+      "STA303H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        31,
+        40,
+        0
+      ]
+    }
+  },
+  "STA475H1": {
+    "notes": "",
+    "name": "STA475H1",
+    "title": "Survival Analysis",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "STA303H1",
+    "coreq_list": [
+      "all",
+      "STA303H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        69,
+        120,
+        0
+      ]
+    }
+  },
+  "STA480H1": {
+    "notes": "",
+    "name": "STA480H1",
+    "title": "Fundamentals of Statistical Genetics",
+    "prereq_string": "STA303H1",
+    "prereq_list": [
+      "all",
+      "STA303H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "STA490Y1": {
+    "notes": "Uncleanable string: \"STA355H1; one additional 400-level STA course\"",
+    "name": "STA490Y1",
+    "title": "Statistical Consultation, Communication, and Collaboration",
+    "prereq_string": "STA303H1, STA304H1/ STA305H1",
+    "prereq_list": [
+      "all",
+      "STA303H1",
+      [
+        "any",
+        "STA304H1",
+        "STA305H1"
+      ]
+    ],
+    "coreq_string": "STA355H1; one additional 400-level STA course",
+    "coreq_list": [
+      "all",
+      "STA355H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        28,
+        40,
+        0
+      ]
+    }
+  },
+  "STA492H1": {
+    "notes": "(Permission of instructor. An application is required to be considered for this course. Information about this special enrolment course as well as a link to the online application form is available on the Department of Statistical Sciences website. Priority will be given to students who complete the application during the priority enrolment period the summer before the course is offered and who are completing all requirements of the Specialist in Statistical Science: Theory and Methods or the Statistics Specialist that academic year.)",
+    "name": "STA492H1",
+    "title": "Seminar in Statistical Science",
+    "prereq_string": "STA355H1 (Permission of instructor. An application is required to be considered for this course. Information about this special enrolment course as well as a link to the online application form is available on the Department of Statistical Sciences website. Priority will be given to students who complete the application during the priority enrolment period the summer before the course is offered and who are completing all requirements of the Specialist in Statistical Science: Theory and Methods or the Statistics Specialist that academic year.)",
+    "prereq_list": [
+      "all",
+      "STA355H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        10,
+        40,
+        0
+      ]
+    }
+  },
+  "STA496H1": {
+    "notes": "Uncleanable string: \"At least 1.0 STA credit at the 300+ level with a minimum grade of 80% in each course\"",
+    "name": "STA496H1",
+    "title": "Readings in Statistics",
+    "prereq_string": "At least 1.0 STA credit at the 300+ level with a minimum grade of 80% in each course",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "STA497H1",
+      "STA498Y1",
+      "STA499Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        5,
+        10,
+        0
+      ],
+      "Winter": [
+        2,
+        10,
+        0
+      ],
+      "Fall-Winter": [
+        5,
+        10,
+        0
+      ]
+    }
+  },
+  "STA497H1": {
+    "notes": "Uncleanable string: \"At least 1.0 STA credit at the 300+ level with a minimum grade of 80% in each course\"",
+    "name": "STA497H1",
+    "title": "Readings in Statistics",
+    "prereq_string": "At least 1.0 STA credit at the 300+ level with a minimum grade of 80% in each course",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "STA496H1",
+      "STA498Y1",
+      "STA499Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        5,
+        10,
+        0
+      ],
+      "Winter": [
+        0,
+        10,
+        0
+      ],
+      "Fall-Winter": [
+        3,
+        10,
+        0
+      ]
+    }
+  },
+  "ACT199H1": {
+    "notes": "",
+    "name": "ACT199H1",
+    "title": "Decipher Financial Puzzles in the Media and Pop Culture",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        34,
+        35,
+        0
+      ]
+    }
+  },
+  "ACT230H1": {
+    "notes": "Uncleanable string: \"First-year Calculus\"",
+    "name": "ACT230H1",
+    "title": "Mathematics of Finance for Non-Actuaries",
+    "prereq_string": "First-year Calculus",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ACT240H1"
+    ],
+    "sessions": {
+      "Fall": [
+        96,
+        160,
+        0
+      ]
+    }
+  },
+  "ACT240H1": {
+    "notes": "",
+    "name": "ACT240H1",
+    "title": "Mathematics of Investment & Credit",
+    "prereq_string": "MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+    "prereq_list": [
+      "any",
+      "MAT137Y1",
+      "MAT157Y1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "ACT230H1"
+    ],
+    "sessions": {
+      "Fall": [
+        102,
+        160,
+        0
+      ]
+    }
+  },
+  "ACT245H1": {
+    "notes": "",
+    "name": "ACT245H1",
+    "title": "Financial Principles for Actuarial Science I",
+    "prereq_string": "ACT240H1, MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      [
+        "any",
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        82,
+        160,
+        0
+      ]
+    }
+  },
+  "ACT247H1": {
+    "notes": "",
+    "name": "ACT247H1",
+    "title": "Introductory Life Contingencies",
+    "prereq_string": "ACT240H1; MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%); STA257H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      [
+        "any",
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      "STA257H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        66,
+        160,
+        0
+      ]
+    }
+  },
+  "ACT348H1": {
+    "notes": "",
+    "name": "ACT348H1",
+    "title": "Life Contingencies II",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%)",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1"
+    ],
+    "coreq_string": "STA257H1/ STA237H1, MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "STA257H1",
+        "STA237H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        57,
+        150,
+        0
+      ]
+    }
+  },
+  "ACT349H1": {
+    "notes": "",
+    "name": "ACT349H1",
+    "title": "Corporate Finance for Actuarial Science",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%)",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1"
+    ],
+    "coreq_string": "STA257H1/ STA237H1, MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "STA257H1",
+        "STA237H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "exclusions_list": [
+      "ECO358H1",
+      "ECO359H1",
+      "RSM332H1",
+      "RSM333H1"
+    ],
+    "sessions": {
+      "Fall": [
+        51,
+        100,
+        0
+      ]
+    }
+  },
+  "ACT350H1": {
+    "notes": "",
+    "name": "ACT350H1",
+    "title": "Applied Probability for Actuarial Science",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%), STA257H1/ STA237H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1",
+      [
+        "any",
+        "STA257H1",
+        "STA237H1"
+      ]
+    ],
+    "coreq_string": "MAT223H1/ MAT240H1, MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "MAT223H1",
+        "MAT240H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        30,
+        50,
+        0
+      ]
+    }
+  },
+  "ACT370H1": {
+    "notes": "",
+    "name": "ACT370H1",
+    "title": "Financial Principles for Actuarial Science II",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%)",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1"
+    ],
+    "coreq_string": "STA261H1/ STA238H1, MAT237Y1/ MAT257Y1",
+    "coreq_list": [
+      "all",
+      [
+        "any",
+        "STA261H1",
+        "STA238H1"
+      ],
+      [
+        "any",
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    ],
+    "exclusions_list": [
+      "RSM435H1"
+    ],
+    "sessions": {
+      "Winter": [
+        85,
+        108,
+        0
+      ]
+    }
+  },
+  "ACT371H1": {
+    "notes": "",
+    "name": "ACT371H1",
+    "title": "Basic Reserving Methods For P&C Insurance",
+    "prereq_string": "ACT240H1, STA257H1/ STA237H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      [
+        "any",
+        "STA257H1",
+        "STA237H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        45,
+        48,
+        0
+      ]
+    }
+  },
+  "ACT372H1": {
+    "notes": "",
+    "name": "ACT372H1",
+    "title": "Basic Ratemaking Methods For P&C Insurance",
+    "prereq_string": "ACT371H1",
+    "prereq_list": [
+      "all",
+      "ACT371H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        30,
+        40,
+        0
+      ]
+    }
+  },
+  "ACT390H1": {
+    "notes": "Uncleanable string: \"Enrolment in the Actuarial Science Specialist program or by approval of the Department of Statistical Sciences.\"",
+    "name": "ACT390H1",
+    "title": "Professional Experience in Actuarial Science",
+    "prereq_string": "Enrolment in the Actuarial Science Specialist program or by approval of the Department of Statistical Sciences.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        34,
+        60,
+        0
+      ]
+    }
+  },
+  "ACT391H1": {
+    "notes": "",
+    "name": "ACT391H1",
+    "title": "Professional Internship",
+    "prereq_string": "ACT390H1",
+    "prereq_list": [
+      "all",
+      "ACT390H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        5,
+        9999,
+        0
+      ],
+      "Winter": [
+        2,
+        9999,
+        0
+      ]
+    }
+  },
+  "ACT451H1": {
+    "notes": "",
+    "name": "ACT451H1",
+    "title": "Loss Models",
+    "prereq_string": "STA257H1/ STA237H1, ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "STA257H1",
+        "STA237H1"
+      ],
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        60,
+        87,
+        0
+      ]
+    }
+  },
+  "ACT452H1": {
+    "notes": "",
+    "name": "ACT452H1",
+    "title": "Loss Models II",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%), STA261H1/ STA238H1, ACT451H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1",
+      [
+        "any",
+        "STA261H1",
+        "STA238H1"
+      ],
+      "ACT451H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        62,
+        87,
+        0
+      ]
+    }
+  },
+  "ACT455H1": {
+    "notes": "",
+    "name": "ACT455H1",
+    "title": "Advanced Life Contingencies",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%), ACT348H1, ACT350H1/ STA347H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1",
+      "ACT348H1",
+      [
+        "any",
+        "ACT350H1",
+        "STA347H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        10,
+        60,
+        0
+      ]
+    }
+  },
+  "ACT460H1": {
+    "notes": "",
+    "name": "ACT460H1",
+    "title": "Stochastic Methods for Actuarial Science and Finance",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%), ACT350H1/STA347H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1",
+      [
+        "any",
+        "ACT350H1",
+        "STA347H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        35,
+        87,
+        0
+      ]
+    }
+  },
+  "ACT466H1": {
+    "notes": "",
+    "name": "ACT466H1",
+    "title": "Credibility and Simulation",
+    "prereq_string": "ACT240H1 (minimum 63%), ACT245H1 (minimum 63%), ACT247H1 (minimum 63%), STA261H1/ STA238H1, ACT451H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1",
+      [
+        "any",
+        "STA261H1",
+        "STA238H1"
+      ],
+      "ACT451H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        28,
+        30,
+        0
+      ]
+    }
+  },
+  "ACT470H1": {
+    "notes": "Uncleanable string: \"ACT348H1 or permission of instructor\"",
+    "name": "ACT470H1",
+    "title": "Advanced Pension Mathematics",
+    "prereq_string": "ACT348H1 or permission of instructor",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "ACT455H1",
+    "coreq_list": [
+      "all",
+      "ACT455H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        3,
+        30,
+        0
+      ]
+    }
+  },
+  "ACT473H1": {
+    "notes": "",
+    "name": "ACT473H1",
+    "title": "Issues In Actuarial Practice",
+    "prereq_string": "ACT348H1, ACT349H1",
+    "prereq_list": [
+      "all",
+      "ACT348H1",
+      "ACT349H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        13,
+        30,
+        0
+      ]
+    }
+  },
+  "ACT475H1": {
+    "notes": "",
+    "name": "ACT475H1",
+    "title": "Insurance Products and Regulation with AXIS",
+    "prereq_string": "ACT240H1, ACT245H1, ACT247H1",
+    "prereq_list": [
+      "all",
+      "ACT240H1",
+      "ACT245H1",
+      "ACT247H1"
+    ],
+    "coreq_string": "ACT348H1",
+    "coreq_list": [
+      "all",
+      "ACT348H1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        22,
+        30,
+        0
+      ]
+    }
+  },
+  "ACT496H1": {
+    "notes": "",
+    "name": "ACT496H1",
+    "title": "Readings in Actuarial Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "ACT497H1": {
+    "notes": "",
+    "name": "ACT497H1",
+    "title": "Readings in Actuarial Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "ACT498Y1": {
+    "notes": "",
+    "name": "ACT498Y1",
+    "title": "Readings in Actuarial Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "ACT499Y1": {
+    "notes": "",
+    "name": "ACT499Y1",
+    "title": "Readings in Actuarial Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "AST101H1": {
+    "notes": "",
+    "name": "AST101H1",
+    "title": "The Sun and Its Neighbours",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST121H1",
+      "CIV100H1",
+      "CIV101H1",
+      "CIV102H1",
+      "AST221H1"
+    ],
+    "sessions": {
+      "Fall": [
+        1449,
+        1500,
+        0
+      ]
+    }
+  },
+  "AST121H1": {
+    "notes": "Uncleanable string: \"SPH4U Physics; MCB4U Calculus\"",
+    "name": "AST121H1",
+    "title": "Origin and Evolution of the Universe",
+    "prereq_string": "SPH4U Physics; MCB4U Calculus",
+    "prereq_list": [
+      "all",
+      "completed"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST101H1",
+      "AST201H1",
+      "AST210H1",
+      "AST221H1",
+      "AST222H1"
+    ],
+    "sessions": {
+      "Winter": [
+        80,
+        80,
+        8
+      ]
+    }
+  },
+  "AST198H1": {
+    "notes": "",
+    "name": "AST198H1",
+    "title": "Great Astronomical Issues",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST199H1"
+    ],
+    "sessions": {
+      "Fall": [
+        0,
+        24,
+        0
+      ],
+      "Winter": [
+        0,
+        24,
+        0
+      ]
+    }
+  },
+  "AST199H1": {
+    "notes": "",
+    "name": "AST199H1",
+    "title": "Astronomy at the Frontier",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST198H1"
+    ],
+    "sessions": {
+      "Fall": [
+        24,
+        24,
+        0
+      ],
+      "Winter": [
+        24,
+        24,
+        15
+      ]
+    }
+  },
+  "AST201H1": {
+    "notes": "",
+    "name": "AST201H1",
+    "title": "Stars and Galaxies",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST121H1",
+      "AST210H1",
+      "CIV100H1",
+      "CIV101H1",
+      "CIV102H1",
+      "AST221H1",
+      "AST222H1"
+    ],
+    "sessions": {
+      "Winter": [
+        1004,
+        1500,
+        0
+      ]
+    }
+  },
+  "AST221H1": {
+    "notes": "",
+    "name": "AST221H1",
+    "title": "Stars and Planets",
+    "prereq_string": "PHY132H1/ PHY152H1; MAT136H1/ MAT137Y1/ MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY132H1",
+        "PHY152H1"
+      ],
+      [
+        "any",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        98,
+        100,
+        0
+      ]
+    }
+  },
+  "AST222H1": {
+    "notes": "",
+    "name": "AST222H1",
+    "title": "Galaxies and Cosmology",
+    "prereq_string": "AST221H1/AST221H5",
+    "prereq_list": [
+      "all",
+      "AST221H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        84,
+        84,
+        16
+      ]
+    }
+  },
+  "AST251H1": {
+    "notes": "",
+    "name": "AST251H1",
+    "title": "Life on Other Worlds",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST221H1",
+      "AST222H1"
+    ],
+    "sessions": {
+      "Winter": [
+        500,
+        500,
+        75
+      ]
+    }
+  },
+  "AST299H1": {
+    "notes": "",
+    "name": "AST299H1",
+    "title": "Research Opportunity Program",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        1,
+        19998,
+        0
+      ]
+    }
+  },
+  "AST301H1": {
+    "notes": "",
+    "name": "AST301H1",
+    "title": "Observational Astronomy",
+    "prereq_string": "AST101H1/ AST201H1/ AST251H1",
+    "prereq_list": [
+      "any",
+      "AST101H1",
+      "AST201H1",
+      "AST251H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST221H1",
+      "AST222H1",
+      "AST325H1",
+      "AST326Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        42,
+        50,
+        0
+      ]
+    }
+  },
+  "AST320H1": {
+    "notes": "Note: can skip stuff with('AST ', ';')",
+    "name": "AST320H1",
+    "title": "Introduction to Astrophysics",
+    "prereq_string": "PHY252H1/ PHY294H1/ PHY242H5/ PHYB52H3; AST221H1, AST222H1 (or equivalent AST readings; consult the instructor)",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "PHY252H1",
+        "PHY294H1"
+      ],
+      "AST221H1",
+      "AST222H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Winter": [
+        79,
+        79,
+        7
+      ]
+    }
+  },
+  "AST325H1": {
+    "notes": "Note: can skip stuff with('', ',')",
+    "name": "AST325H1",
+    "title": "Introduction to Practical Astronomy",
+    "prereq_string": "AST221H1, AST222H1 (or equivalent readings, consult the instructor)",
+    "prereq_list": [
+      "all",
+      "AST221H1",
+      "AST222H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST326Y1"
+    ],
+    "sessions": {
+      "Fall": [
+        38,
+        38,
+        0
+      ]
+    }
+  },
+  "AST326Y1": {
+    "notes": "Note: can skip stuff with('', ';')",
+    "name": "AST326Y1",
+    "title": "Practical Astronomy",
+    "prereq_string": "AST221H1, AST222H1 (or equivalent readings; consult the instructor)",
+    "prereq_list": [
+      "all",
+      "AST221H1",
+      "AST222H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST325H1"
+    ],
+    "sessions": {
+      "Fall-Winter": [
+        40,
+        40,
+        0
+      ]
+    }
+  },
+  "AST424H1": {
+    "notes": "",
+    "name": "AST424H1",
+    "title": "Introduction to Astrophysical Research",
+    "prereq_string": "AST320H1",
+    "prereq_list": [
+      "all",
+      "AST320H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "AST425Y1"
+    ],
+    "sessions": {
+      "Fall-Winter": [
+        21,
+        35,
+        0
+      ]
+    }
+  },
+  "AST425Y1": {
+    "notes": "Uncleanable string: \"AST320H1, two of AST325H1/ AST326Y1, PHY324H1, PHY350H1, PHY354H1, PHY356H1, PHY357H1, PHY358H1, PHY407H1/ PHY408H1, PHY450H1, JPE395H1\"",
+    "name": "AST425Y1",
+    "title": "Research Topic in Astronomy",
+    "prereq_string": "AST320H1, two of AST325H1/ AST326Y1, PHY324H1, PHY350H1, PHY354H1, PHY356H1, PHY357H1, PHY358H1, PHY407H1/ PHY408H1, PHY450H1, JPE395H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "AST320H1",
+        "AST326Y1"
+      ],
+      "PHY324H1",
+      "PHY350H1",
+      "PHY354H1",
+      "PHY356H1",
+      "PHY357H1",
+      "PHY358H1",
+      [
+        "any",
+        "PHY407H1",
+        "PHY408H1"
+      ],
+      "PHY450H1",
+      "JPE395H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        24,
+        35,
+        0
+      ]
+    }
+  },
+  "AST430H1": {
+    "notes": "Uncleanable string: \"Minimum GPA of 3.5 in Astronomy program courses and the permission of the Undergraduate Chair and the prospective adviser\"",
+    "name": "AST430H1",
+    "title": "Supervised Study in Astronomy & Astrophysics",
+    "prereq_string": "Minimum GPA of 3.5 in Astronomy program courses and the permission of the Undergraduate Chair and the prospective adviser",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        2,
+        9999,
+        0
+      ],
+      "Winter": [
+        1,
+        9999,
+        0
+      ],
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "AST431Y1": {
+    "notes": "Uncleanable string: \"Minimum GPA of 3.5 in Astronomy program courses and the permission of the Undergraduate Chair and the prospective adviser \"",
+    "name": "AST431Y1",
+    "title": "Supervised Study in Astronomy & Astrophysics",
+    "prereq_string": "Minimum GPA of 3.5 in Astronomy program courses and the permission of the Undergraduate Chair and the prospective adviser ",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        9,
+        9999,
+        0
+      ]
+    }
+  },
+  "COG260H1": {
+    "notes": "",
+    "name": "COG260H1",
+    "title": "Data, Computation, and the Mind",
+    "prereq_string": "CSC108H1/CSC148H1",
+    "prereq_list": [
+      "any",
+      "CSC108H1",
+      "CSC148H1"
+    ],
+    "coreq_string": "COG250Y1",
+    "coreq_list": [
+      "all",
+      "COG250Y1"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall": [
+        35,
+        36,
+        0
+      ]
+    }
+  },
+  "CTA395Y1": {
+    "notes": "Prereq: 8.5 credits 4.0 creditsUncleanable string: \"Minimum 8.5 credits and no more than 14.0 credits, including courses in AST, CTA200H1, or permission\"",
+    "name": "CTA395Y1",
+    "title": "Research Topic",
+    "prereq_string": "Minimum 8.5 credits and no more than 14.0 credits, including courses in AST, CTA200H1, or permission",
+    "prereq_list": [
+      "all",
+      "CTA200H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PLN420H1": {
+    "notes": "",
+    "name": "PLN420H1",
+    "title": "Interdisciplinary Seminar in Planetary Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "PLN425H1": {
+    "notes": "",
+    "name": "PLN425H1",
+    "title": "Research in Planetary Science",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [],
+    "sessions": {
+      "Fall-Winter": [
+        0,
+        9999,
+        0
+      ]
+    }
+  },
+  "SMC199H1": {
+    "notes": "",
+    "name": "SMC199H1",
+    "title": "Intelligence, Artificial and Human",
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "exclusions_list": [
+      "CSC199H1"
+    ],
+    "sessions": {
+      "Fall": [
+        21,
+        25,
+        0
+      ]
+    }
+  },
+  "ECO220Y1": {
+    "notes": "",
+    "name": "ECO220Y1",
+    "title": "Introduction to Data Analysis and Applied Econometrics",
+    "exclusions_list": [
+      "GGR270H1",
+      "PSY201H1",
+      "PSY202H1",
+      "SOC202H1",
+      "SOC252H1",
+      "STA220H1",
+      "STA221H1",
+      "STA248H1"
+    ],
+    "prereq_string": "( ECO101H1(63%),  ECO102H1(63%))/  ECO105Y1(80%)/  ECO100Y5(67%)/ ( ECO101H5(63%),  ECO102H5(63%))/ ( MGEA02H3(67%),  MGEA06H3 (67%));  MAT133Y1/ ( MAT135H1,  MAT136H1)/  MAT137Y1/  MAT157Y1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        [
+          "all",
+          "ECO101H1",
+          "ECO102H1"
+        ],
+        "ECO105Y1"
+      ],
+      [
+        "any",
+        "MAT133Y1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall-Winter": [
+        1216,
+        1218,
+        0
+      ]
+    }
+  },
+  "ECO225H1": {
+    "notes": "",
+    "name": "ECO225H1",
+    "title": "Big-Data Tools for Economists",
+    "exclusions_list": [
+      "CSC311H1",
+      "ESC190H1",
+      "JSC270H1",
+      "STA314H1"
+    ],
+    "prereq_string": "( ECO101H1(63%),  ECO102H1(63%))/  ECO105Y1(80%)/  ECO100Y5(67%)/ ( ECO101H5(63%),  ECO102H5(63%))/ ( MGEA02H3 (67%),  MGEA06H3 (67%));  MAT133Y1(63%)/ ( MAT135H1(60%),  MAT136H1(60%))/  MAT137Y1(55%)/  MAT157Y1(55%);  CSC108H1/  CSC110Y1/  CSC148H1",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        [
+          "all",
+          "ECO101H1",
+          "ECO102H1"
+        ],
+        "ECO105Y1"
+      ],
+      [
+        "any",
+        "MAT133Y1",
+        [
+          "all",
+          "MAT135H1",
+          "MAT136H1"
+        ],
+        "MAT137Y1",
+        "MAT157Y1"
+      ],
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC148H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        200,
+        200,
+        13
+      ]
+    }
+  },
+  "ECO482H1": {
+    "notes": "Prereq: ('', 'at least ', '', 'in ECO ', '+ ', '', '')",
+    "name": "ECO482H1",
+    "title": "Machine Learning Applications in Macroeconomic Finance",
+    "exclusions_list": [
+      "CSC311H1",
+      "STA314H1",
+      "ECO481H1"
+    ],
+    "prereq_string": "CSC108H1/  CSC110Y1/  CSC148H1,  ECO200Y1/  ECO204Y1/  ECO206Y1,  ECO202Y1/  ECO208Y1/  ECO209Y1,  ECO220Y1/  ECO227Y1/ ( STA237H1,  STA238H1)/ ( STA247H1,  STA248H1)/ ( STA257H1,  STA261H1), at least 1.0 credit in ECO at the 300+ level.",
+    "prereq_list": [
+      "all",
+      [
+        "any",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC148H1"
+      ],
+      [
+        "any",
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ],
+      [
+        "any",
+        "ECO202Y1",
+        "ECO208Y1",
+        "ECO209Y1"
+      ],
+      [
+        "any",
+        "ECO220Y1",
+        "ECO227Y1",
+        [
+          "all",
+          "STA237H1",
+          "STA238H1"
+        ],
+        [
+          "all",
+          "STA247H1",
+          "STA248H1"
+        ],
+        [
+          "all",
+          "STA257H1",
+          "STA261H1"
+        ]
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        37,
+        40,
+        0
+      ],
+      "Winter": [
+        40,
+        40,
+        20
+      ]
+    }
+  },
+  "EEB125H1": {
+    "notes": "",
+    "name": "EEB125H1",
+    "title": "Introductory Computation and Data Science for the Life and Physical Sciences",
+    "exclusions_list": [
+      "CSC111H1",
+      "CSC148H1",
+      "STA130H1",
+      "STA238H1",
+      "STA248H1",
+      "STA261H1",
+      "GGR274H1"
+    ],
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        75,
+        75,
+        7
+      ]
+    }
+  },
+  "EEB313H1": {
+    "notes": "",
+    "name": "EEB313H1",
+    "title": "Quantitative Methods in R for Biology",
+    "exclusions_list": [
+      "STA130H1",
+      "PSY305H1"
+    ],
+    "prereq_string": "BIO220H1,  EEB225H1/ STA288H1/ STA220H1",
+    "prereq_list": [
+      "all",
+      "BIO220H1",
+      [
+        "any",
+        "EEB225H1",
+        "STA288H1",
+        "STA220H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        32,
+        32,
+        0
+      ]
+    }
+  },
+  "ENG286H1": {
+    "notes": "Prereq: 4.0 creditsUncleanable string: \"1.0 ENG credit or any 4.0 credits\"",
+    "name": "ENG286H1",
+    "title": "Literature and Data",
+    "exclusions_list": [
+      "CSC111H1",
+      "CSC148H1",
+      "STA130H1",
+      "STA238H1",
+      "STA248H1",
+      "STA261H1",
+      "GGR274H1",
+      "EEB125H1"
+    ],
+    "prereq_string": "1.0 ENG credit or any 4.0 credits",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        104,
+        108,
+        0
+      ]
+    }
+  },
+  "ENG287H1": {
+    "notes": "Prereq: 4.0 creditsUncleanable string: \"1.0 ENG credit or any 4.0 credits\"",
+    "name": "ENG287H1",
+    "title": "The Digital Text",
+    "exclusions_list": [],
+    "prereq_string": "1.0 ENG credit or any 4.0 credits",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        144,
+        144,
+        48
+      ]
+    }
+  },
+  "ENV338H1": {
+    "notes": "Prereq: 8.0 creditsUncleanable string: \"Completion of 8.0 credits including\u00a0 ENV221H1/ ENV222H1 and  ENV223H1. Students who do not meet the prerequisites are encouraged to contact the Undergraduate Associate Director.\"",
+    "name": "ENV338H1",
+    "title": "Environmental Research Data and Decision-making",
+    "exclusions_list": [],
+    "prereq_string": "Completion of 8.0 credits including\u00a0 ENV221H1/ ENV222H1 and  ENV223H1. Students who do not meet the prerequisites are encouraged to contact the Undergraduate Associate Director.",
+    "prereq_list": [
+      "all",
+      "ENV222H1"
+    ],
+    "coreq_string": "None",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        55,
+        60,
+        0
+      ]
+    }
+  },
+  "ESS245H1": {
+    "notes": "Uncleanable string: \"1.0 credit from first-year math, or physics courses except  MAT193H1,  MAT198H1,  MAT199H1,  PHY196H1,  PHY197H1,  PHY198H1,  PHY199H1\"",
+    "name": "ESS245H1",
+    "title": "Computational Geology",
+    "exclusions_list": [
+      "ESS345H1"
+    ],
+    "prereq_string": "1.0 credit from first-year math, or physics courses except  MAT193H1,  MAT198H1,  MAT199H1,  PHY196H1,  PHY197H1,  PHY198H1,  PHY199H1",
+    "prereq_list": [
+      "all",
+      "MAT198H1",
+      "MAT199H1",
+      "PHY196H1",
+      "PHY197H1",
+      "PHY198H1",
+      "PHY199H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        32,
+        51,
+        0
+      ]
+    }
+  },
+  "GGR272H1": {
+    "notes": "",
+    "name": "GGR272H1",
+    "title": "Geographic Information and Mapping I",
+    "exclusions_list": [],
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        221,
+        230,
+        0
+      ],
+      "Winter": [
+        160,
+        160,
+        0
+      ]
+    }
+  },
+  "GGR274H1": {
+    "notes": "",
+    "name": "GGR274H1",
+    "title": "Introductory Computation and Data Science for the Social Sciences",
+    "exclusions_list": [
+      "CSC111H1",
+      "CSC148H1",
+      "STA130H1",
+      "STA238H1",
+      "STA248H1",
+      "STA261H1",
+      "EEB125H1"
+    ],
+    "prereq_string": "",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        120,
+        120,
+        20
+      ]
+    }
+  },
+  "GGR375H1": {
+    "notes": "Prereq: 8.0 creditsUncleanable string: \"8.0 credits including  GGR272H1/  GGR274H1\"",
+    "name": "GGR375H1",
+    "title": "Introduction to Programming in GIS",
+    "exclusions_list": [
+      "GGR386H1"
+    ],
+    "prereq_string": "8.0 credits including  GGR272H1/  GGR274H1",
+    "prereq_list": [
+      "all",
+      "GGR274H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        20,
+        45,
+        0
+      ]
+    }
+  },
+  "GGR376H1": {
+    "notes": "Prereq: 8.0 creditsUncleanable string: \"8.0 credits including  GGR272H1/  GGR274H1\"",
+    "name": "GGR376H1",
+    "title": "Geovisualization",
+    "exclusions_list": [
+      "GGR386H1"
+    ],
+    "prereq_string": "8.0 credits including  GGR272H1/  GGR274H1",
+    "prereq_list": [
+      "all",
+      "GGR274H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        24,
+        45,
+        0
+      ]
+    }
+  },
+  "GGR377H1": {
+    "notes": "Prereq: 8.0 credits",
+    "name": "GGR377H1",
+    "title": "Introduction to Urban Data Analytics",
+    "exclusions_list": [],
+    "prereq_string": "8.0 credits",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        56,
+        60,
+        0
+      ]
+    }
+  },
+  "GGR472H1": {
+    "notes": "Prereq: 0.0 creditsUncleanable string: \"10.0 credits including  GGR272H1 and one of  GGR273H1 or  GGR274H1\"",
+    "name": "GGR472H1",
+    "title": "Developing Web Maps",
+    "exclusions_list": [],
+    "prereq_string": "10.0 credits including  GGR272H1 and one of  GGR273H1 or  GGR274H1",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        23,
+        30,
+        0
+      ]
+    }
+  },
+  "NMC268H1": {
+    "notes": "Prereq: ('', '', 's', '', '-', '', '')",
+    "name": "NMC268H1",
+    "title": "Data Science Applications in Archaeology",
+    "exclusions_list": [],
+    "prereq_string": "3.0 credits at the 100-level.",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        28,
+        35,
+        0
+      ]
+    }
+  },
+  "PCJ260H1": {
+    "notes": "Prereq: 4.0 credits",
+    "name": "PCJ260H1",
+    "title": "Introduction to Peace, Conflict and Justice I",
+    "exclusions_list": [],
+    "prereq_string": "4.0 credits",
+    "prereq_list": [
+      "all"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        40,
+        50,
+        1
+      ]
+    }
+  },
+  "PSY305H1": {
+    "notes": "",
+    "name": "PSY305H1",
+    "title": "The Treatment of Psychological Data",
+    "exclusions_list": [
+      "EEB313H1"
+    ],
+    "prereq_string": "PSY202H1/  ECO220Y1/  SOC252H1/  STA221H1/  ECO220Y5/  PSY202H5/  STA221H5/  PSYC08H3/  STAB27H3/  STAC32H3",
+    "prereq_list": [
+      "any",
+      "PSY202H1",
+      "ECO220Y1",
+      "SOC252H1",
+      "STA221H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Winter": [
+        40,
+        40,
+        8
+      ]
+    }
+  },
+  "RSM371H1": {
+    "notes": "",
+    "name": "RSM371H1",
+    "title": "Data and Information Management for Business Analytics",
+    "exclusions_list": [
+      "RSM312H1"
+    ],
+    "prereq_string": "CSC108H1",
+    "prereq_list": [
+      "all",
+      "CSC108H1"
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        47,
+        58,
+        0
+      ]
+    }
+  },
+  "RSM384H1": {
+    "notes": "",
+    "name": "RSM384H1",
+    "title": "Sports Analytics",
+    "exclusions_list": [
+      "RSM314H1"
+    ],
+    "prereq_string": "ECO220Y1/\u200b ECO227Y1/\u200b( STA220H1,  STA255H1)/( STA237H1,  STA238H1)/( STA257H1,  STA261H1)",
+    "prereq_list": [
+      "any",
+      "ECO220Y1",
+      "ECO227Y1",
+      [
+        "all",
+        "STA220H1",
+        "STA255H1"
+      ],
+      [
+        "all",
+        "STA237H1",
+        "STA238H1"
+      ],
+      [
+        "all",
+        "STA257H1",
+        "STA261H1"
+      ]
+    ],
+    "coreq_string": "",
+    "coreq_list": [
+      "all"
+    ],
+    "sessions": {
+      "Fall": [
+        58,
+        59,
+        0
+      ]
+    }
+  }
+}
